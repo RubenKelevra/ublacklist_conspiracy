@@ -333,3 +333,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Culture Wars Magazine (USA)
 *://*.culturewars.com/*
 
+# CultureWatch (Australia)
+*://*.billmuehlenberg.com/*
+
