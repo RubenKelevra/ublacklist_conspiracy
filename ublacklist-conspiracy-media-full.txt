@@ -119,3 +119,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Anti-Empire (Unknown)
 *://*.anti-empire.com/*
 
+# Antioxidants.News (USA)
+*://*.antioxidants.news/*
+
