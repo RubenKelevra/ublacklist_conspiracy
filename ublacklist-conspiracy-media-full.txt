@@ -653,3 +653,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # International Climate Science Coalition (Canada)
 *://*.climatescienceinternational.org/*
 
+# ICIC.Law (Bulgaria)
+*://*.icic.law/*
+
