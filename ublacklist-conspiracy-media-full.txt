@@ -940,3 +940,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Prophecy Today (USA)
 *://*.jimmydeyoungjr.org/*
 
+# RandPaul.News (USA)
+*://*.randpaul.news/*
+
