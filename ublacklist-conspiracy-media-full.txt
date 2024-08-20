@@ -243,3 +243,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # ChlorellaFactor.com (USA)
 *://*.chlorellafactor.com/*
 
+# ChristianAnswers.net (USA)
+*://*.christiananswers.net/*
+
