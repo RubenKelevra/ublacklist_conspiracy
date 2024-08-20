@@ -1175,3 +1175,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Truth for Health Foundation (USA)
 *://*.truthforhealth.org/*
 
+# Twisted.News (USA)
+*://*.twisted.news/*
+
