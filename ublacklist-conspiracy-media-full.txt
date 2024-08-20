@@ -1257,3 +1257,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # WhatDoesItMean (Unknown)
 *://*.whatdoesitmean.com/*
 
+# WhiteHouse.News (USA)
+*://*.whitehouse.news/*
+
