@@ -194,3 +194,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Blckbx.tv (Netherlands)
 *://*.blckbx.tv/*
 
+# BonSens (France)
+*://*.bonsens.info/*
+
