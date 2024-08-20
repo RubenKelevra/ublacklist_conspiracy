@@ -117,3 +117,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Curious Mind Magazine (USA)
 *://*.curiousmindmagazine.com/*
 
+# Daily Grail (Australia)
+*://*.dailygrail.com/*
+
