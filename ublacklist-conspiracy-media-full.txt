@@ -1236,3 +1236,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Vigilante.tv (Unknown)
 *://*.vigilante.tv/*
 
+# VoteFraud.News (USA)
+*://*.votefraud.news/*
+
