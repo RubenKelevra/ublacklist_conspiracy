@@ -560,3 +560,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Ground Zero Media (USA)
 *://*.groundzeromedia.org/*
 
+# Gundry MD (USA)
+*://*.gundrymd.com/*
+
