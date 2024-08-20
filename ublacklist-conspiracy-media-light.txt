@@ -168,3 +168,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Fabiosa (Ukraine)
 *://*.fabiosa.com/*
 
+# Faith Panda (Kenya)
+*://*.faithpanda.com/*
+
