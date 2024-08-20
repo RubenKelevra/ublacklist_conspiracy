@@ -381,3 +381,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # DoctorOz.com (USA)
 *://*.doctoroz.com/*
 
+# Doctors for Covid Ethics (Switzerland)
+*://*.doctors4covidethics.org/*
+
