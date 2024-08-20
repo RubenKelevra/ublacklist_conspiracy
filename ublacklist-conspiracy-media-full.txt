@@ -137,3 +137,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # AskingAngels.com (Australia)
 *://*.askingangels.com/*
 
+# Assassination Science (USA)
+*://*.assassinationscience.com/*
+
