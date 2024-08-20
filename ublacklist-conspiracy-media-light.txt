@@ -334,3 +334,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # NaturalCures.com (UK)
 *://*.naturalcures.com/*
 
+# Natural Health 365 (USA)
+*://*.naturalhealth365.com/*
+
