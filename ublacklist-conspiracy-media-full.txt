@@ -1047,3 +1047,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Common Sense Show (USA)
 *://*.thecommonsenseshow.com/*
 
+# The Corbett Report (Japan)
+*://*.corbettreport.com/*
+
