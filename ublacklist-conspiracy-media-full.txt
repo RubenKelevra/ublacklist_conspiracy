@@ -76,3 +76,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # AlternativeNews.com (USA)
 *://*.alternativenews.com/*
 
+# AltHealth Works (USA)
+*://*.althealthworks.com/*
+
