@@ -429,3 +429,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Evolution News and Science Today (USA)
 *://*.evolutionnews.org/*
 
+# Exopolitics (USA)
+*://*.exopolitics.org/*
+
