@@ -1169,3 +1169,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # TruNews (USA)
 *://*.trunews.com/*
 
+# Truth11.com (Unknown)
+*://*.truth11.com/*
+
