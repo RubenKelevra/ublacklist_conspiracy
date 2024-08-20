@@ -478,3 +478,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Waking Times (USA)
 *://*.wakingtimes.com/*
 
+# Thinking Humanity (Unknown)
+*://*.thinkinghumanity.com/*
+
