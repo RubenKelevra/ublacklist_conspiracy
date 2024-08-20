@@ -1056,3 +1056,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Daily Sheeple (Unknown)
 *://*.thedailysheeple.com/*
 
+# TheDailyWorld.NET (Unknown)
+*://*.thedailyworld.net/*
+*://*.caphemoingay.com/*
+
