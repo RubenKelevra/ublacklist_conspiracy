@@ -867,3 +867,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # OffGuardian (Unknown)
 *://*.off-guardian.org/*
 
+# Off the Grid News (USA)
+*://*.offthegridnews.com/*
+
