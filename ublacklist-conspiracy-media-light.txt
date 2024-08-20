@@ -304,3 +304,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # LiveStrong.com (USA)
 *://*.livestrong.com/*
 
+# Media Roots (USA)
+*://*.mediaroots.org/*
+
