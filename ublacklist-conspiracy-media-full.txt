@@ -113,3 +113,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Anewspost.com (USA)
 *://*.anewspost.com/*
 
+# Answers in Genesis (USA)
+*://*.answersingenesis.org/*
+
