@@ -387,3 +387,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Dollar Vigilante (Unknown)
 *://*.dollarvigilante.com/*
 
+# Dr. Axe (USA)
+*://*.draxe.com/*
+
