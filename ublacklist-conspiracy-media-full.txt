@@ -46,3 +46,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Age of Autism (USA)
 *://*.ageofautism.com/*
 
+# Newsinstact.com (Romania)
+*://*.newsinstact.com/*
+
