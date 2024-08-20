@@ -346,3 +346,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Need to Know (USA)
 *://*.needtoknow.news/*
 
+# Neuronation (Germany)
+*://*.neuronation.com/*
+
