@@ -42,3 +42,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Alternative Daily (USA)
 *://*.thealternativedaily.com/*
 
+# AltHealth Works (USA)
+*://*.althealthworks.com/*
+
