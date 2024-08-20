@@ -912,3 +912,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Praying Medic (USA)
 *://*.prayingmedic.com/*
 
+# Prepare for Change (Unknown)
+*://*.prepareforchange.net/*
+
