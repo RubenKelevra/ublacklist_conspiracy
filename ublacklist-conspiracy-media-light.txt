@@ -463,3 +463,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Purist Magazine (USA)
 *://*.thepuristonline.com/*
 
+# The Rundown Live (USA)
+*://*.therundownlive.com/*
+
