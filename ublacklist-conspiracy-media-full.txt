@@ -240,3 +240,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Children’s Health Defense (USA)
 *://*.childrenshealthdefense.org/*
 
+# ChlorellaFactor.com (USA)
+*://*.chlorellafactor.com/*
+
