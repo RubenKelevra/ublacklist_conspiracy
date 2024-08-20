@@ -1223,3 +1223,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # VacTruth.com (USA)
 *://*.vactruth.com/*
 
+# Vaxxter (USA)
+*://*.vaxxter.com/*
+
