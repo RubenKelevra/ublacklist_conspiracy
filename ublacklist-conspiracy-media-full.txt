@@ -1269,3 +1269,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Wine Press News (USA)
 *://*.winepressnews.com/*
 
+# Winter Watch (USA)
+*://*.winterwatch.net/*
+
