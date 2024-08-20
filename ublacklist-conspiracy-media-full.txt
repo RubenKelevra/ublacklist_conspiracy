@@ -551,3 +551,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Great Awakening (Unknown)
 *://*.greatawakening.win/*
 
+# GreenMedInfo (USA)
+*://*.greenmedinfo.com/*
+
