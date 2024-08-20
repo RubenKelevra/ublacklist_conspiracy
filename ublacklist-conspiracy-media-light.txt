@@ -204,3 +204,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Giza Death Star (USA)
 *://*.gizadeathstar.com/*
 
+# Global Healing Center (USA)
+*://*.globalhealingcenter.com/*
+*://*.globalhealing.com/*
+
