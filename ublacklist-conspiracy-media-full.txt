@@ -1127,3 +1127,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Truth About Cancer (USA)
 *://*.thetruthaboutcancer.com/*
 
+# The Truth Seeker (UK)
+*://*.thetruthseeker.co.uk/*
+
