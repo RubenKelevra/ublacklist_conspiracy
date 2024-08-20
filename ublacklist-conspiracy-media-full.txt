@@ -474,3 +474,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Freedom Advocates: Agenda 21 (USA)
 *://*.freedomadvocates.org/*
 
+# Freedomain (Canada)
+*://*.freedomainradio.com/*
+*://*.freedomain.com/*
+
