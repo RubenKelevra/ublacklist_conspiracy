@@ -487,3 +487,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Thrive Global (USA)
 *://*.thriveglobal.com/*
 
+# Thrive Movement (USA)
+*://*.thrivemovement.com/*
+
