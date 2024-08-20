@@ -57,3 +57,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Anya Vien (USA)
 *://*.anyavien.com/*
 
+# Apost.com (Germany)
+*://*.apost.com/*
+
