@@ -973,3 +973,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Sante Plus Magazine (Morocco)
 *://*.santeplusmag.com/*
 
+# ScienceClowns (USA)
+*://*.scienceclowns.com/*
+
