@@ -216,3 +216,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # CaliforniaCollapse.News (USA)
 *://*.californiacollapse.news/*
 
+# CampusInsanity.com (USA)
+*://*.campusinsanity.com/*
+
