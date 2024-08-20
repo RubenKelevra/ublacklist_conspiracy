@@ -1290,3 +1290,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # World Lifestyle (USA)
 *://*.worldlifestyle.com/*
 
+# World Truth TV (USA)
+*://*.worldtruth.tv/*
+
