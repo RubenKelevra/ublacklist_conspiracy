@@ -120,3 +120,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Daily Grail (Australia)
 *://*.dailygrail.com/*
 
+# DailyHealthPost (Canada)
+*://*.dailyhealthpost.com/*
+
