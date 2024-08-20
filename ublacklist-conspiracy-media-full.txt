@@ -1184,3 +1184,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Unlimited Hangout (USA)
 *://*.unlimitedhangout.com/*
 
+# UK Column (UK)
+*://*.ukcolumn.org/*
+
