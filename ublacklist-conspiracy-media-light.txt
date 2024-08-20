@@ -93,3 +93,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Climate Etc (USA)
 *://*.judithcurry.com/*
 
+# Coast to Coast AM (USA)
+*://*.coasttocoastam.com/*
+
