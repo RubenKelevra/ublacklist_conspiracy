@@ -256,3 +256,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Homeopathy Journal (Germany)
 *://*.facultyofhomeopathy.org/*
 
+# Home Vaccine Education Network (USA)
+*://*.homevaccineeducationnetwork.com/*
+
