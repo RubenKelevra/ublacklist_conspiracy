@@ -626,3 +626,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # I Heart Intelligence (Bulgaria)
 *://*.iheartintelligence.com/*
 
+# Illuminati Watcher (USA)
+*://*.illuminatiwatcher.com/*
+
