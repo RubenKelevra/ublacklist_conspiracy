@@ -996,3 +996,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Signs of the Times (USA)
 *://*.sott.net/*
 
+# Skeptiko (USA)
+*://*.skeptiko.com/*
+
