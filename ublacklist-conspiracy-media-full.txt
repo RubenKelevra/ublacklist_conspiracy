@@ -680,3 +680,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # JoeBiden.News (USA)
 *://*.joebiden.news/*
 
+# JunkScience.com (USA)
+*://*.junkscience.com/*
+
