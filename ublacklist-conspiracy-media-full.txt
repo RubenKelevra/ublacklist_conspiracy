@@ -438,3 +438,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Fabiosa (Ukraine)
 *://*.fabiosa.com/*
 
+# FactCheck.News (USA)
+*://*.factcheck.news/*
+
