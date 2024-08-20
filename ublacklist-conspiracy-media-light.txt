@@ -24,3 +24,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Newsinstact.com (Romania)
 *://*.newsinstact.com/*
 
+# Natural Health Response (USA)
+*://*.naturalhealthresponse.com/*
+
