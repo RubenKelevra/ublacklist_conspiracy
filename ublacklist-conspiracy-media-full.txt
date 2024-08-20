@@ -336,3 +336,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # CultureWatch (Australia)
 *://*.billmuehlenberg.com/*
 
+# Cureus Journal of Medical Science (USA)
+*://*.cureus.com/*
+
