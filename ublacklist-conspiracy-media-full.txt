@@ -450,3 +450,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # FDA.News (USA)
 *://*.fda.news/*
 
+# Flat Earth Society (Unknown)
+*://*.tfes.org/*
+
