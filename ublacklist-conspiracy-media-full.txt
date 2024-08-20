@@ -149,3 +149,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Awake Canada (Canada)
 *://*.awakecanada.org/*
 
+# Awakening.News (USA)
+*://*.awakening.news/*
+
