@@ -1130,3 +1130,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Truth Seeker (UK)
 *://*.thetruthseeker.co.uk/*
 
+# The Vaccine Reaction (USA)
+*://*.thevaccinereaction.org/*
+
