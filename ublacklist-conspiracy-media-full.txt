@@ -683,3 +683,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # JunkScience.com (USA)
 *://*.junkscience.com/*
 
+# Just One Focus (Australia)
+*://*.justonefocus.org/*
+
