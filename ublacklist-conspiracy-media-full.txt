@@ -294,3 +294,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Committee For A Constructive Tomorrow (USA)
 *://*.cfact.org/*
 
+# Conscious Life News (USA)
+*://*.consciouslifenews.com/*
+
