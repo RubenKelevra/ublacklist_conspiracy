@@ -451,3 +451,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Hearty Soul (Canada)
 *://*.theheartysoul.com/*
 
+# The Highwire (USA)
+*://*.thehighwire.com/*
+
