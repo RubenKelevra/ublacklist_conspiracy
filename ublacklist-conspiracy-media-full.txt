@@ -204,3 +204,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Breakthrough.News (USA)
 *://*.breakthrough.news/*
 
+# Brighteon (USA)
+*://*.brighteon.com/*
+
