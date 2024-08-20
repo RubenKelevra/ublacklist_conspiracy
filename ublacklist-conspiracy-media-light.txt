@@ -238,3 +238,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Health and Money News (USA)
 *://*.healthandmoneynews.wordpress.com/*
 
+# Healing Oracle (Unknown)
+*://*.healingoracle.ch/*
+
