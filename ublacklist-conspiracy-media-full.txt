@@ -110,3 +110,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # AND Magazine (USA)
 *://*.andmagazine.com/*
 
+# Anewspost.com (USA)
+*://*.anewspost.com/*
+
