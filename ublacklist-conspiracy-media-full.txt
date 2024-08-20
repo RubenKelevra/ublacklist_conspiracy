@@ -536,3 +536,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # GMWatch (UK)
 *://*.gmwatch.org/*
 
+# Godlike Productions (Unknown)
+*://*.godlikeproductions.com/*
+
