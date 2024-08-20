@@ -502,3 +502,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Vaccines Revealed (USA)
 *://*.vrevealed.com/*
 
+# Vaccine Safety Info (USA)
+*://*.vaccinesafety.info/*
+
