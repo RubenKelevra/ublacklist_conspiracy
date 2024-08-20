@@ -1115,3 +1115,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # TheQAnons.com (USA)
 *://*.theqanons.com/*
 
+# The Rundown Live (USA)
+*://*.therundownlive.com/*
+
