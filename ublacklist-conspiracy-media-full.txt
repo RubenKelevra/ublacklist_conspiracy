@@ -729,3 +729,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Living Whole (Canada)
 *://*.livingwhole.org/*
 
+# Lockdown Resistance (USA)
+*://*.endlockdowns.org/*
+
