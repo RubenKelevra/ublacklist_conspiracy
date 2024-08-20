@@ -924,3 +924,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Prevention Magazine (USA)
 *://*.prevention.com/*
 
+# Principia Scientific International (UK)
+*://*.principia-scientific.org/*
+
