@@ -521,3 +521,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Weston A. Price Foundation (USA)
 *://*.westonaprice.org/*
 
+# World Doctors Alliance (Unknown)
+*://*.worlddoctorsalliance.com/*
+
