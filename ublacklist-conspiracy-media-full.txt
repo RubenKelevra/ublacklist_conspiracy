@@ -1142,3 +1142,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Wellness Company (USA)
 *://*.twc.health/*
 
+# Thinking Humanity (Unknown)
+*://*.thinkinghumanity.com/*
+
