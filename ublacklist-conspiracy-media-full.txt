@@ -134,3 +134,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Asia-Pacific Research (Canada)
 *://*.asia-pacificresearch.com/*
 
+# AskingAngels.com (Australia)
+*://*.askingangels.com/*
+
