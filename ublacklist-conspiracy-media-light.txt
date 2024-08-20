@@ -250,3 +250,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Herb (Canada)
 *://*.herb.co/*
 
+# Higher Perspective (Unknown)
+*://*.higherperspectives.com/*
+
