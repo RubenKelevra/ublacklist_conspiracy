@@ -1148,3 +1148,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Thought Catalog (USA)
 *://*.thoughtcatalog.com/*
 
+# Thought Crime Radio (USA)
+*://*.thoughtcrimeradio.net/*
+
