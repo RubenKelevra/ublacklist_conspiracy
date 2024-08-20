@@ -324,3 +324,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Creation-Evolution Headlines (USA)
 *://*.crev.info/*
 
+# CreationWiki (USA)
+*://*.creationwiki.org/*
+
