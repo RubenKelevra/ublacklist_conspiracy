@@ -921,3 +921,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Prevent Genocide 2030 (USA)
 *://*.preventgenocide2030.org/*
 
+# Prevention Magazine (USA)
+*://*.prevention.com/*
+
