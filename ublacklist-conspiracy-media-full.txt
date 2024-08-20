@@ -321,3 +321,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Covid Call to Humanity (Philippines)
 *://*.covidcalltohumanity.org/*
 
+# Creation-Evolution Headlines (USA)
+*://*.crev.info/*
+
