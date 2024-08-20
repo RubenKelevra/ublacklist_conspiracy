@@ -1254,3 +1254,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # What Really Happened (USA)
 *://*.whatreallyhappened.com/*
 
+# WhatDoesItMean (Unknown)
+*://*.whatdoesitmean.com/*
+
