@@ -135,3 +135,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Dissident Voice (USA)
 *://*.dissidentvoice.org/*
 
+# Doctors for Covid Ethics (Switzerland)
+*://*.doctors4covidethics.org/*
+
