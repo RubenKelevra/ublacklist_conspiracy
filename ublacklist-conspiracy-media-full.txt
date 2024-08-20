@@ -647,3 +647,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Institute for Creation Research (USA)
 *://*.icr.org/*
 
+# Institute for Responsible Technology (USA)
+*://*.responsibletechnology.org/*
+
