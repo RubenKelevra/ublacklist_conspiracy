@@ -364,3 +364,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # OffGuardian (Unknown)
 *://*.off-guardian.org/*
 
+# Online Updates (Unknown)
+*://*.online-updates.net/*
+
