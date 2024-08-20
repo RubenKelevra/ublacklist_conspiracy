@@ -759,3 +759,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Medical Kidnap (USA)
 *://*.medicalkidnap.com/*
 
+# Medical Medium (USA)
+*://*.medicalmedium.com/*
+
