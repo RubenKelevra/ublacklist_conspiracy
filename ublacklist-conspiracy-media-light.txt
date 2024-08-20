@@ -150,3 +150,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # DrTrozzi.org (Canada)
 *://*.drtrozzi.org/*
 
+# Educate Yourself (USA)
+*://*.educate-yourself.org/*
+
