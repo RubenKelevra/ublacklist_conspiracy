@@ -97,3 +97,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # American Policy Center (USA)
 *://*.americanpolicy.org/*
 
+# America’s Frontline Doctors (USA)
+*://*.americasfrontlinedoctors.com/*
+*://*.aflds.org/*
+
