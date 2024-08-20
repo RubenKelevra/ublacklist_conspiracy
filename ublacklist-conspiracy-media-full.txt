@@ -34,3 +34,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Actualized.org (USA)
 *://*.actualized.org/*
 
+# Adams.News (USA)
+*://*.adams.news/*
+
