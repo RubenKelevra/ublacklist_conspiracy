@@ -237,3 +237,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Charisma News (USA)
 *://*.charismanews.com/*
 
+# Children’s Health Defense (USA)
+*://*.childrenshealthdefense.org/*
+
