@@ -662,3 +662,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Iowa Climate Science Education (USA)
 *://*.iowaclimate.org/*
 
+# Irish Sentinel (Ireland)
+*://*.theirishsentinel.com/*
+
