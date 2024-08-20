@@ -487,3 +487,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Friends of Science (Canada)
 *://*.friendsofscience.org/*
 
+# Front Line Covid-19 Critical Care Alliance (USA)
+*://*.covid19criticalcare.com/*
+
