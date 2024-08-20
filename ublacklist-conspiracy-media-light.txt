@@ -404,3 +404,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Real Jew News (USA)
 *://*.realjewnews.com/*
 
+# Return to Now (USA)
+*://*.returntonow.net/*
+
