@@ -484,3 +484,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Thought Catalog (USA)
 *://*.thoughtcatalog.com/*
 
+# Thrive Global (USA)
+*://*.thriveglobal.com/*
+
