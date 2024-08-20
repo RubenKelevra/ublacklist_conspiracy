@@ -423,3 +423,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Stormfront (USA)
 *://*.stormfront.org/*
 
+# Sustainable Pulse (USA)
+*://*.sustainablepulse.com/*
+
