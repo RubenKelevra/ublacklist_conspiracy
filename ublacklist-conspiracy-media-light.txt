@@ -156,3 +156,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Electroverse (Unknown)
 *://*.electroverse.net/*
 
+# Eluxe Magazine (UK)
+*://*.eluxemagazine.com/*
+
