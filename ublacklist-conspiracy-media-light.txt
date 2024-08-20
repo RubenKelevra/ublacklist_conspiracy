@@ -271,3 +271,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Illuminati Watcher (USA)
 *://*.illuminatiwatcher.com/*
 
+# Independent Science News (USA)
+*://*.independentsciencenews.org/*
+
