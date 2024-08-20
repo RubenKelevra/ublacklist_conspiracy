@@ -439,3 +439,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 *://*.thedailyworld.net/*
 *://*.caphemoingay.com/*
 
+# The Event Chronicle (Unknown)
+*://*.theeventchronicle.com/*
+
