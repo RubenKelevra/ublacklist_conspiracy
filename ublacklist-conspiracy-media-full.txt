@@ -484,3 +484,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Freeworldnews.TV (USA)
 *://*.freeworldnews.tv/*
 
+# Friends of Science (Canada)
+*://*.friendsofscience.org/*
+
