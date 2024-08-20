@@ -478,3 +478,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 *://*.freedomainradio.com/*
 *://*.freedomain.com/*
 
+# Freedom.News (USA)
+*://*.freedom.news/*
+
