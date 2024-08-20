@@ -569,3 +569,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Healing Food Reference (USA)
 *://*.healingfoodreference.com/*
 
+# Healing Oracle (Unknown)
+*://*.healingoracle.ch/*
+
