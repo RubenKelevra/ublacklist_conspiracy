@@ -496,3 +496,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Gaia (USA)
 *://*.gaia.com/*
 
+# Gear.News (USA)
+*://*.gear.news/*
+
