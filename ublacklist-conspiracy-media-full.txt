@@ -378,3 +378,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Dissident Voice (USA)
 *://*.dissidentvoice.org/*
 
+# DoctorOz.com (USA)
+*://*.doctoroz.com/*
+
