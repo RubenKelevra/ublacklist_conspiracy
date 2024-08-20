@@ -327,3 +327,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # CreationWiki (USA)
 *://*.creationwiki.org/*
 
+# CrossExamined.org (USA)
+*://*.crossexamined.org/*
+
