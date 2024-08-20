@@ -490,3 +490,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Thrive Movement (USA)
 *://*.thrivemovement.com/*
 
+# TrialSite News (USA)
+*://*.trialsitenews.com/*
+
