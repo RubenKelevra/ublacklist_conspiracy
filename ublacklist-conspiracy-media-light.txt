@@ -429,3 +429,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Annunaki (Unknown)
 *://*.annunaki.org/*
 
+# The Daily Expose (UK)
+*://*.expose-news.com/*
+
