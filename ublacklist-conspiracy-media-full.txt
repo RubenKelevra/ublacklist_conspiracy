@@ -702,3 +702,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Les Moutons Rebelles (France)
 *://*.lesmoutonsrebelles.com/*
 
+# Liberty.News (USA)
+*://*.liberty.news/*
+
