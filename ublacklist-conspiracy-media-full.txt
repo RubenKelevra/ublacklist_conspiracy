@@ -276,3 +276,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Climate.News (USA)
 *://*.climate.news/*
 
+# ClimateScienceNews (USA)
+*://*.climatesciencenews.com/*
+
