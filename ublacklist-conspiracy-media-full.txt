@@ -354,3 +354,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # DailyHealthPost (Canada)
 *://*.dailyhealthpost.com/*
 
+# Daily Sceptic (UK)
+*://*.dailysceptic.org/*
+
