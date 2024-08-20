@@ -58,3 +58,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Alliance for Natural Health International (UK)
 *://*.anhinternational.org/*
 
+# Alliance for Natural Health (USA)
+*://*.anh-usa.org/*
+
