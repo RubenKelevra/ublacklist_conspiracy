@@ -1093,3 +1093,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Liberty Beacon (USA)
 *://*.thelibertybeacon.com/*
 
+# The Mind Unleashed (USA)
+*://*.themindunleashed.com/*
+
