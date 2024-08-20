@@ -578,3 +578,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Health Impact News (USA)
 *://*.healthimpactnews.com/*
 
+# Health.News (USA)
+*://*.health.news/*
+
