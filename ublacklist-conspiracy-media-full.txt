@@ -348,3 +348,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # DailyClout (USA)
 *://*.dailyclout.io/*
 
+# Daily Grail (Australia)
+*://*.dailygrail.com/*
+
