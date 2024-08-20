@@ -659,3 +659,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Investment Watch Blog (USA)
 *://*.investmentwatchblog.com/*
 
+# Iowa Climate Science Education (USA)
+*://*.iowaclimate.org/*
+
