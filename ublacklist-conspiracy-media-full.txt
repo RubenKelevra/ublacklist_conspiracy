@@ -1136,3 +1136,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Vermont Independent (USA)
 *://*.vermontindependent.net/*
 
+# Waking Times (USA)
+*://*.wakingtimes.com/*
+
