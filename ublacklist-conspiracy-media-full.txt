@@ -852,3 +852,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # NutrientReference.com (USA)
 *://*.nutrientreference.com/*
 
+# NutritionFacts.org (USA)
+*://*.nutritionfacts.org/*
+
