@@ -1193,3 +1193,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # USAWatchdog.com (USA)
 *://*.usawatchdog.com/*
 
+# VaccineDamage.News (USA)
+*://*.vaccinedamage.news/*
+
