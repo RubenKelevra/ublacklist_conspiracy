@@ -258,3 +258,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Christian Science (USA)
 *://*.christianscience.com/*
 
+# Christian Truth Center (Kenya)
+*://*.christiantruthcenter.com/*
+
