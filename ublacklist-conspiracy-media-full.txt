@@ -1066,3 +1066,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The European Union Times (Unknown)
 *://*.eutimes.net/*
 
+# The Event Chronicle (Unknown)
+*://*.theeventchronicle.com/*
+
