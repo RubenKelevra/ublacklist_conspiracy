@@ -765,3 +765,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # MedicalTyranny (USA)
 *://*.medicaltyranny.com/*
 
+# Medicine News (USA)
+*://*.medicine.news/*
+
