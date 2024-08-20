@@ -1075,3 +1075,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Fullerton Informer (USA)
 *://*.thefullertoninformer.com/*
 
+# The Greanville Post (USA)
+*://*.greanvillepost.com/*
+
