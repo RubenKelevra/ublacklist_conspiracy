@@ -176,3 +176,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # BioDefense (USA)
 *://*.biodefense.com/*
 
+# Biologos Foundation (USA)
+*://*.biologos.org/*
+
