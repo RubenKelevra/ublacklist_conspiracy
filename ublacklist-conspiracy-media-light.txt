@@ -466,3 +466,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Rundown Live (USA)
 *://*.therundownlive.com/*
 
+# The Truth Seeker (UK)
+*://*.thetruthseeker.co.uk/*
+
