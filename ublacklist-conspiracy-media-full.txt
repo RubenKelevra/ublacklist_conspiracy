@@ -855,3 +855,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # NutritionFacts.org (USA)
 *://*.nutritionfacts.org/*
 
+# NWO Report (USA)
+*://*.nworeport.me/*
+
