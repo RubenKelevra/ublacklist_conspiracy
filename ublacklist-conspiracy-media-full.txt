@@ -668,3 +668,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Israel365 News (Israel)
 *://*.israel365news.com/*
 
+# Jeda News (Italy)
+*://*.jedanews.com/*
+
