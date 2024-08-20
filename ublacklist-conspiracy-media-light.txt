@@ -147,3 +147,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # DrNorthrup.com (USA)
 *://*.drnorthrup.com/*
 
+# DrTrozzi.org (Canada)
+*://*.drtrozzi.org/*
+
