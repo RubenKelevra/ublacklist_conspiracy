@@ -22,3 +22,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 *://*.abovetopsecret.com/*
 *://*.youtube.com/@thenlbs*
 
+# A Call for an Uprising (USA)
+*://*.acallforanuprising.com/*
+
