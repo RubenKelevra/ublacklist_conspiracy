@@ -185,3 +185,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Biotech Express Magazine (India)
 *://*.biotechexpressmag.com/*
 
+# Bioterrorism.News (USA)
+*://*.bioterrorism.news/*
+
