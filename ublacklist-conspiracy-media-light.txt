@@ -407,3 +407,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Return to Now (USA)
 *://*.returntonow.net/*
 
+# SaneVax (USA)
+*://*.sanevax.org/*
+
