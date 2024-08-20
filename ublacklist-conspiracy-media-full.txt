@@ -837,3 +837,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # News Target (USA)
 *://*.newstarget.com/*
 
+# New Zealand Doctors Speaking Out With Science (New Zealand)
+*://*.nzdsos.com/*
+
