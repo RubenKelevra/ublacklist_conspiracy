@@ -63,3 +63,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Architects & Engineers for 9/11 Truth (USA)
 *://*.ae911truth.org/*
 
+# Asia-Pacific Research (Canada)
+*://*.asia-pacificresearch.com/*
+
