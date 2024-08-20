@@ -207,3 +207,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Brighteon (USA)
 *://*.brighteon.com/*
 
+# BrightSide (Cyprus)
+*://*.brightside.me/*
+
