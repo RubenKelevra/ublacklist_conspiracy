@@ -980,3 +980,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 *://*.science.news/*
 *://*.CensoredScience.com/*
 
+# Science Vibe (USA)
+*://*.sciencevibe.com/*
+*://*.macantogeljuara.com/*
+
