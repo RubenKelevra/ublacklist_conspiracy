@@ -393,3 +393,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Dr. Morse TV (USA)
 *://*.drmorse.tv/*
 
+# DrNorthrup.com (USA)
+*://*.drnorthrup.com/*
+
