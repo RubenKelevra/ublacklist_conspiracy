@@ -813,3 +813,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # NaturalNewsBlogs (USA)
 *://*.naturalnewsblogs.com/*
 
+# Natural News Radio (USA)
+*://*.naturalnewsradio.com/*
+
