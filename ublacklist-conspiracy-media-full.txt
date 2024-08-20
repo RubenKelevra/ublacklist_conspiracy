@@ -40,3 +40,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Addiction.News (USA)
 *://*.addiction.news/*
 
+# ADDitude Magazine (USA)
+*://*.additudemag.com/*
+
