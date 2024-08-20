@@ -211,3 +211,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Global Research (Canada)
 *://*.globalresearch.ca/*
 
+# Global Skywatch (USA)
+*://*.globalskywatch.com/*
+
