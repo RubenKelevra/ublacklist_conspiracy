@@ -432,3 +432,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Exopolitics (USA)
 *://*.exopolitics.org/*
 
+# Extinction.News (USA)
+*://*.extinction.news/*
+
