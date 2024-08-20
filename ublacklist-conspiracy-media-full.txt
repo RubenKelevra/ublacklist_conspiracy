@@ -1109,3 +1109,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Pulse (Canada)
 *://*.thepulse.one/*
 
+# The Purist Magazine (USA)
+*://*.thepuristonline.com/*
+
