@@ -197,3 +197,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # BonSens (France)
 *://*.bonsens.info/*
 
+# Brand New Tube (UK)
+*://*.brandnewtube.com/*
+*://*.onevsp.com/*
+
