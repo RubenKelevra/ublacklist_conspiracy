@@ -81,3 +81,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Bioscience Resource Project (USA)
 *://*.bioscienceresource.org/*
 
+# Blacklisted News (USA)
+*://*.blacklistednews.com/*
+
