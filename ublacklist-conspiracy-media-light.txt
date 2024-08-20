@@ -319,3 +319,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # MindBodyGreen (USA)
 *://*.mindbodygreen.com/*
 
+# Modern Alternative Mama (USA)
+*://*.modernalternativemama.com/*
+
