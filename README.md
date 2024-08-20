@@ -18,6 +18,4 @@ https://raw.githubusercontent.com/RubenKelevra/ublacklist_conspiracy/master/ubla
 
 ### Found a bug?
 
-_This list is Work in Progress. So if you think it's missing something, check again at a later time, as it may not yet be added._
-
 If you found a bug, [let me know](https://github.com/RubenKelevra/ublacklist_conspiracy/issues/new/choose)!
