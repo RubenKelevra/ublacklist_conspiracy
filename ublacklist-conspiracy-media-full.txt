@@ -741,3 +741,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # MadMaxWorld.tv (USA)
 *://*.madmaxworld.tv/*
 
+# Malone Institute (USA)
+*://*.maloneinstitute.org/*
+
