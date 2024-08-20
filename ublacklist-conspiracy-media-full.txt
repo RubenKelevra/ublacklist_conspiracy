@@ -1266,3 +1266,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Wikispooks (Unknown)
 *://*.wikispooks.com/*
 
+# Wine Press News (USA)
+*://*.winepressnews.com/*
+
