@@ -183,3 +183,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Food Matters (Australia)
 *://*.foodmatters.com/*
 
+# Forever Conscious (USA)
+*://*.foreverconscious.com/*
+
