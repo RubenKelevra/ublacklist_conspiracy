@@ -307,3 +307,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Media Roots (USA)
 *://*.mediaroots.org/*
 
+# Medical Daily (USA)
+*://*.medicaldaily.com/*
+
