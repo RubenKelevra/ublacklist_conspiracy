@@ -650,3 +650,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Institute for Responsible Technology (USA)
 *://*.responsibletechnology.org/*
 
+# International Climate Science Coalition (Canada)
+*://*.climatescienceinternational.org/*
+
