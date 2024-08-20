@@ -1211,3 +1211,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Vaccines and Christianity (USA)
 *://*.vaccinesandchristianity.org/*
 
+# Vaccines Revealed (USA)
+*://*.vrevealed.com/*
+
