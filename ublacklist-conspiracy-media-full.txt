@@ -1002,3 +1002,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Snopes.News (USA)
 *://*.snopes.news/*
 
+# South Front (Russia)
+*://*.southfront.org/*
+
