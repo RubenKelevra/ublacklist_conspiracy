@@ -15,3 +15,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # 369News (Unknown)
 *://*.369news.net/*
 
+# 911Truth.org (USA)
+*://*.911truth.org/*
+
