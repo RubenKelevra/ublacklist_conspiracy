@@ -277,3 +277,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Information Clearing House (USA)
 *://*.informationclearinghouse.info/*
 
+# Institute for Responsible Technology (USA)
+*://*.responsibletechnology.org/*
+
