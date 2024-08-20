@@ -140,3 +140,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Assassination Science (USA)
 *://*.assassinationscience.com/*
 
+# Australian National Review (Australia)
+*://*.australiannationalreview.com/*
+
