@@ -306,3 +306,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Corey’s Digs (USA)
 *://*.coreysdigs.com/*
 
+# Corruptico (Unknown)
+*://*.corruptico.com/*
+
