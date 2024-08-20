@@ -711,3 +711,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Libtards.News (USA)
 *://*.libtards.news/*
 
+# Life Advancer (USA)
+*://*.lifeadvancer.com/*
+
