@@ -107,3 +107,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Ancient Origins (Ireland)
 *://*.ancient-origins.net/*
 
+# AND Magazine (USA)
+*://*.andmagazine.com/*
+
