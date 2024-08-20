@@ -158,3 +158,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Banned.News (USA)
 *://*.banned.news/*
 
+# Banned.Video (USA)
+*://*.banned.video/*
+
