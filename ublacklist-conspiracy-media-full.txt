@@ -638,3 +638,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Information Clearing House (USA)
 *://*.informationclearinghouse.info/*
 
+# Infowars-Alex Jones (USA)
+*://*.infowars.com/*
+
