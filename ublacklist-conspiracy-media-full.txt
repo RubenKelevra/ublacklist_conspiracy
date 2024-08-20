@@ -146,3 +146,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Autism Speaks (USA)
 *://*.autismspeaks.org/*
 
+# Awake Canada (Canada)
+*://*.awakecanada.org/*
+
