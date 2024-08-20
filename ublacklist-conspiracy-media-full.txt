@@ -849,3 +849,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Now the End Begins (USA)
 *://*.nowtheendbegins.com/*
 
+# NutrientReference.com (USA)
+*://*.nutrientreference.com/*
+
