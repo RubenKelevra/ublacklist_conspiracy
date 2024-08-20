@@ -52,3 +52,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Natural Health Response (USA)
 *://*.naturalhealthresponse.com/*
 
+# Alliance for Human Research Protection (USA)
+*://*.ahrp.org/*
+
