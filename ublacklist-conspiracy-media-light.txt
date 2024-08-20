@@ -30,3 +30,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Alliance for Human Research Protection (USA)
 *://*.ahrp.org/*
 
+# Alliance for Natural Health International (UK)
+*://*.anhinternational.org/*
+
