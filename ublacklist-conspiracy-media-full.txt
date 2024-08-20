@@ -557,3 +557,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Greenpeace (Netherlands)
 *://*.greenpeace.org/*
 
+# Ground Zero Media (USA)
+*://*.groundzeromedia.org/*
+
