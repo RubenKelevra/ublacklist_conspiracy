@@ -520,3 +520,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Glitch.News (USA)
 *://*.glitch.news/*
 
+# Global Healing Center (USA)
+*://*.globalhealingcenter.com/*
+*://*.globalhealing.com/*
+
