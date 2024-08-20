@@ -423,3 +423,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Eugenics.News (USA)
 *://*.eugenics.news/*
 
+# Europe Reloaded (USA)
+*://*.europereloaded.com/*
+
