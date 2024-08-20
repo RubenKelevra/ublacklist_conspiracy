@@ -331,3 +331,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Natural Blaze (Unknown)
 *://*.naturalblaze.com/*
 
+# NaturalCures.com (UK)
+*://*.naturalcures.com/*
+
