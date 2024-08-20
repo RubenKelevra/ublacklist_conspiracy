@@ -1260,3 +1260,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # WhiteHouse.News (USA)
 *://*.whitehouse.news/*
 
+# Wide Awake Media (USA)
+*://*.wide-awake-media.com/*
+
