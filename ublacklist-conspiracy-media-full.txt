@@ -720,3 +720,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # LittleThings (USA)
 *://*.littlethings.com/*
 
+# Live Action (USA)
+*://*.liveaction.org/*
+
