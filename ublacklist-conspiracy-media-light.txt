@@ -420,3 +420,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Skeptiko (USA)
 *://*.skeptiko.com/*
 
+# Stormfront (USA)
+*://*.stormfront.org/*
+
