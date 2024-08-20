@@ -472,3 +472,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Vaccine Reaction (USA)
 *://*.thevaccinereaction.org/*
 
+# Vermont Independent (USA)
+*://*.vermontindependent.net/*
+
