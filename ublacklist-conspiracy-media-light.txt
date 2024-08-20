@@ -337,3 +337,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Natural Health 365 (USA)
 *://*.naturalhealth365.com/*
 
+# Natural Society (USA)
+*://*.naturalsociety.com/*
+
