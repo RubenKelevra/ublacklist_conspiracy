@@ -426,3 +426,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Europe Reloaded (USA)
 *://*.europereloaded.com/*
 
+# Evolution News and Science Today (USA)
+*://*.evolutionnews.org/*
+
