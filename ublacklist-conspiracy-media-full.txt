@@ -1202,3 +1202,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # VaccineInjuryNews (USA)
 *://*.vaccineinjurynews.com/*
 
+# Vaccines News (USA)
+*://*.vaccines.news/*
+
