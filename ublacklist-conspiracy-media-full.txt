@@ -357,3 +357,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Daily Sceptic (UK)
 *://*.dailysceptic.org/*
 
+# Dark Journalist (USA)
+*://*.darkjournalist.com/*
+
