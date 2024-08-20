@@ -391,3 +391,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Prevention Magazine (USA)
 *://*.prevention.com/*
 
+# Prison Planet (USA)
+*://*.prisonplanet.com/*
+*://*.endgamethemovie.com/*
+
