@@ -496,3 +496,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # USA Hitman (Unknown)
 *://*.usahitman.com/*
 
+# Vaccine Papers (Unknown)
+*://*.vaccinepapers.org/*
+
