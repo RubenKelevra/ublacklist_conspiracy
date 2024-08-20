@@ -1181,3 +1181,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Tyranny.News (USA)
 *://*.tyranny.news/*
 
+# Unlimited Hangout (USA)
+*://*.unlimitedhangout.com/*
+
