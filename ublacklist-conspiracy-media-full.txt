@@ -714,3 +714,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Life Advancer (USA)
 *://*.lifeadvancer.com/*
 
+# LifeSpa (USA)
+*://*.lifespa.com/*
+
