@@ -502,3 +502,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Gender.news (USA)
 *://*.gender.news/*
 
+# Geoengineering.News (USA)
+*://*.geoengineering.news/*
+
