@@ -28,3 +28,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # ACN Latitudes (USA)
 *://*.latitudes.org/*
 
+# Activist Post (Unknown)
+*://*.activistpost.com/*
+
