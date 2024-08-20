@@ -435,3 +435,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Extinction.News (USA)
 *://*.extinction.news/*
 
+# Fabiosa (Ukraine)
+*://*.fabiosa.com/*
+
