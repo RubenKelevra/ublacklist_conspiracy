@@ -539,3 +539,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Godlike Productions (Unknown)
 *://*.godlikeproductions.com/*
 
+# Goop (USA)
+*://*.goop.com/*
+
