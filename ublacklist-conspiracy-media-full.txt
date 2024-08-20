@@ -37,3 +37,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Adams.News (USA)
 *://*.adams.news/*
 
+# Addiction.News (USA)
+*://*.addiction.news/*
+
