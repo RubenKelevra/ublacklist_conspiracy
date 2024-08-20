@@ -432,3 +432,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Daily Expose (UK)
 *://*.expose-news.com/*
 
+# The Daily Sheeple (Unknown)
+*://*.thedailysheeple.com/*
+
