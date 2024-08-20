@@ -563,3 +563,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Gundry MD (USA)
 *://*.gundrymd.com/*
 
+# Health and Money News (USA)
+*://*.healthandmoneynews.wordpress.com/*
+
