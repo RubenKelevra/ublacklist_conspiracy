@@ -605,3 +605,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Herbreference.com (USA)
 *://*.herbreference.com/*
 
+# Higher Perspective (Unknown)
+*://*.higherperspectives.com/*
+
