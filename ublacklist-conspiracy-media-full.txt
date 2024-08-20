@@ -228,3 +228,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Catholic Online (USA)
 *://*.catholic.org/*
 
+# CDC.News (USA)
+*://*.cdc.news/*
+
