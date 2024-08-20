@@ -1239,3 +1239,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # VoteFraud.News (USA)
 *://*.votefraud.news/*
 
+# Watts Up with That (USA)
+*://*.wattsupwiththat.com/*
+
