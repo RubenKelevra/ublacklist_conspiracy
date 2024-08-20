@@ -417,3 +417,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Environmental Working Group (USA)
 *://*.ewg.org/*
 
+# Escape All These Things (USA)
+*://*.escapeallthesethings.com/*
+
