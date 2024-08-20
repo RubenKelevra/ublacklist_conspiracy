@@ -1272,3 +1272,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Winter Watch (USA)
 *://*.winterwatch.net/*
 
+# World Affairs Blog (USA)
+*://*.worldaffairs.blog/*
+
