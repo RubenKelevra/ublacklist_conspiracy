@@ -219,3 +219,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # CampusInsanity.com (USA)
 *://*.campusinsanity.com/*
 
+# Canberra Declaration (Australia)
+*://*.canberradeclaration.org.au/*
+
