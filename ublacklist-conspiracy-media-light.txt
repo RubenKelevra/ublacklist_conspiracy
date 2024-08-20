@@ -138,3 +138,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Doctors for Covid Ethics (Switzerland)
 *://*.doctors4covidethics.org/*
 
+# Dr. Axe (USA)
+*://*.draxe.com/*
+
