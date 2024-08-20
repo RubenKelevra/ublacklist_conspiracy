@@ -873,3 +873,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Online Updates (Unknown)
 *://*.online-updates.net/*
 
+# Organic Consumers Association (USA)
+*://*.organicconsumers.org/*
+
