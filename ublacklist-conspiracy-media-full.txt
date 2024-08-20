@@ -635,3 +635,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Infinite Unknown (Unknown)
 *://*.infiniteunknown.net/*
 
+# Information Clearing House (USA)
+*://*.informationclearinghouse.info/*
+
