@@ -1160,3 +1160,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Totality of Evidence (Australia)
 *://*.totalityofevidence.com/*
 
+# Treason.News (USA)
+*://*.treason.news/*
+
