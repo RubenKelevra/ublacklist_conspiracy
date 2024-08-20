@@ -699,3 +699,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # LeftCult (USA)
 *://*.leftcult.com/*
 
+# Les Moutons Rebelles (France)
+*://*.lesmoutonsrebelles.com/*
+
