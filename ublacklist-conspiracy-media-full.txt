@@ -870,3 +870,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Off the Grid News (USA)
 *://*.offthegridnews.com/*
 
+# Online Updates (Unknown)
+*://*.online-updates.net/*
+
