@@ -102,3 +102,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Conscious Life News (USA)
 *://*.consciouslifenews.com/*
 
+# Corruptico (Unknown)
+*://*.corruptico.com/*
+
