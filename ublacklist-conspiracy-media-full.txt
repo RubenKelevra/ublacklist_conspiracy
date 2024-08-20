@@ -909,3 +909,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Positive Health Wellness (USA)
 *://*.positivehealthwellness.com/*
 
+# Praying Medic (USA)
+*://*.prayingmedic.com/*
+
