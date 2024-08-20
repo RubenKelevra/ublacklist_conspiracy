@@ -575,3 +575,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Health Helpline (New Zealand)
 *://*.health-helpline.co.nz/*
 
+# Health Impact News (USA)
+*://*.healthimpactnews.com/*
+
