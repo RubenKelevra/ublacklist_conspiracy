@@ -876,3 +876,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Organic Consumers Association (USA)
 *://*.organicconsumers.org/*
 
+# Organic Facts (India)
+*://*.organicfacts.net/*
+
