@@ -273,3 +273,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Climate Etc (USA)
 *://*.judithcurry.com/*
 
+# Climate.News (USA)
+*://*.climate.news/*
+
