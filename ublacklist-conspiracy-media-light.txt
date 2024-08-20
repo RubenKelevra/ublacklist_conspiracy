@@ -512,3 +512,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 *://*.veteranstoday.com/*
 *://*.vtforeignpolicy.com/*
 
+# Watts Up with That (USA)
+*://*.wattsupwiththat.com/*
+
