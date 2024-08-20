@@ -505,3 +505,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Vaccine Safety Info (USA)
 *://*.vaccinesafety.info/*
 
+# VacTruth.com (USA)
+*://*.vactruth.com/*
+
