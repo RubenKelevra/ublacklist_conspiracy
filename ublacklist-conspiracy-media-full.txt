@@ -846,3 +846,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # NoTricksZone (Germany)
 *://*.notrickszone.com/*
 
+# Now the End Begins (USA)
+*://*.nowtheendbegins.com/*
+
