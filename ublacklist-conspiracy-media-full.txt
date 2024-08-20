@@ -360,3 +360,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Dark Journalist (USA)
 *://*.darkjournalist.com/*
 
+# David Icke (UK)
+*://*.davidicke.com/*
+
