@@ -990,3 +990,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Sheep Killers (Unknown)
 *://*.sheepkillers.com/*
 
+# Shoebat (USA)
+*://*.shoebat.com/*
+
