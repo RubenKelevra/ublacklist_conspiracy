@@ -6,3 +6,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # 21st Century Wire (USA)
 *://*.21stcenturywire.com/*
 
+# 369News (Unknown)
+*://*.369news.net/*
+
