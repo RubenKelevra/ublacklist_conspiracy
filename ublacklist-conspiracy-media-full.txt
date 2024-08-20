@@ -481,3 +481,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Freedom.News (USA)
 *://*.freedom.news/*
 
+# Freeworldnews.TV (USA)
+*://*.freeworldnews.tv/*
+
