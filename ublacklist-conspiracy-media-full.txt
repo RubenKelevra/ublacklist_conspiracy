@@ -155,3 +155,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Awareness Act (USA)
 *://*.awarenessact.com/*
 
+# Banned.News (USA)
+*://*.banned.news/*
+
