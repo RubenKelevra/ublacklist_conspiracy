@@ -1106,3 +1106,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Phaser (USA)
 *://*.thephaser.com/*
 
+# The Pulse (Canada)
+*://*.thepulse.one/*
+
