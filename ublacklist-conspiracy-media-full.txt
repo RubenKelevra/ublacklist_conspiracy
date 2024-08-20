@@ -789,3 +789,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # NationalSecurity.News (USA)
 *://*.nationalsecurity.news/*
 
+# National Vaccine Information Center (USA)
+*://*.nvic.org/*
+
