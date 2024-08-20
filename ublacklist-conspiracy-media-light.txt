@@ -481,3 +481,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Thinking Humanity (Unknown)
 *://*.thinkinghumanity.com/*
 
+# Thought Catalog (USA)
+*://*.thoughtcatalog.com/*
+
