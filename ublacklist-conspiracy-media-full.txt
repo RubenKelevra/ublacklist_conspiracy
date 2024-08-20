@@ -1035,3 +1035,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Technocracy News (USA)
 *://*.technocracy.news/*
 
+# Technocrats.News (USA)
+*://*.technocrats.news/*
+
