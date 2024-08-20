@@ -517,3 +517,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Giza Death Star (USA)
 *://*.gizadeathstar.com/*
 
+# Glitch.News (USA)
+*://*.glitch.news/*
+
