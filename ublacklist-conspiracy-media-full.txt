@@ -82,3 +82,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # AltLeft.news (USA)
 *://*.altleft.news/*
 
+# Aluminum.News (USA)
+*://*.aluminum.news/*
+
