@@ -780,3 +780,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Mind Matters (USA)
 *://*.mindmatters.ai/*
 
+# Modern Alternative Mama (USA)
+*://*.modernalternativemama.com/*
+
