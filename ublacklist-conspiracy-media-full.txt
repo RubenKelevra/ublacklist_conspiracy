@@ -533,3 +533,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # GMO Watch Bias (USA)
 *://*.gmowatch.com/*
 
+# GMWatch (UK)
+*://*.gmwatch.org/*
+
