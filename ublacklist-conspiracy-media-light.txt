@@ -247,3 +247,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Healthy Holistic Living (USA)
 *://*.healthy-holistic-living.com/*
 
+# Herb (Canada)
+*://*.herb.co/*
+
