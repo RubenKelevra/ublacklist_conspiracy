@@ -298,3 +298,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # LifeSpa (USA)
 *://*.lifespa.com/*
 
+# LittleThings (USA)
+*://*.littlethings.com/*
+
