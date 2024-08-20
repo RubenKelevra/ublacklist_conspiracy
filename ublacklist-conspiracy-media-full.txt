@@ -234,3 +234,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Censorship.News (USA)
 *://*.censorship.news/*
 
+# Charisma News (USA)
+*://*.charismanews.com/*
+
