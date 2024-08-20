@@ -465,3 +465,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Food.News (USA)
 *://*.food.news/*
 
+# Forever Conscious (USA)
+*://*.foreverconscious.com/*
+
