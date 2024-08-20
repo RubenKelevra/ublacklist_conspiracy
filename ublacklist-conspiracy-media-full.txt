@@ -915,3 +915,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Prepare for Change (Unknown)
 *://*.prepareforchange.net/*
 
+# Press for Truth (Canada)
+*://*.pressfortruth.ca/*
+
