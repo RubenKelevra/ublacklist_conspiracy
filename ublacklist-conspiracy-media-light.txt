@@ -413,3 +413,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Sante Plus Magazine (Morocco)
 *://*.santeplusmag.com/*
 
+# Science Vibe (USA)
+*://*.sciencevibe.com/*
+*://*.macantogeljuara.com/*
+
