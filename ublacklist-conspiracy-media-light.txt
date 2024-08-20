@@ -382,3 +382,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Physicians for Informed Consent (USA)
 *://*.physiciansforinformedconsent.org/*
 
+# Positive Health Wellness (USA)
+*://*.positivehealthwellness.com/*
+
