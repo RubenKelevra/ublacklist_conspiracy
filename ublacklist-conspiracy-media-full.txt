@@ -104,3 +104,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Ancient Code (Unknown)
 *://*.ancient-code.com/*
 
+# Ancient Origins (Ireland)
+*://*.ancient-origins.net/*
+
