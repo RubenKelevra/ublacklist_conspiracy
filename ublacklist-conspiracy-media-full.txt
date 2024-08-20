@@ -614,3 +614,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Home Vaccine Education Network (USA)
 *://*.homevaccineeducationnetwork.com/*
 
+# Humans Are Free (USA)
+*://*.humansarefree.com/*
+
