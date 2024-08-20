@@ -444,3 +444,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # FaithIt (USA)
 *://*.faithit.com/*
 
+# Faith Panda (Kenya)
+*://*.faithpanda.com/*
+
