@@ -12,3 +12,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # 79Days.News (USA)
 *://*.79days.news/*
 
+# 369News (Unknown)
+*://*.369news.net/*
+
