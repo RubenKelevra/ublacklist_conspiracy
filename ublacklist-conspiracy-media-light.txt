@@ -171,3 +171,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Faith Panda (Kenya)
 *://*.faithpanda.com/*
 
+# Flat Earth Society (Unknown)
+*://*.tfes.org/*
+
