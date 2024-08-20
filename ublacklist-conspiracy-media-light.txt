@@ -162,3 +162,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Environmental Working Group (USA)
 *://*.ewg.org/*
 
+# Evolution News and Science Today (USA)
+*://*.evolutionnews.org/*
+
