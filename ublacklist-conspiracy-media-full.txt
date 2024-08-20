@@ -602,3 +602,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Herb (Canada)
 *://*.herb.co/*
 
+# Herbreference.com (USA)
+*://*.herbreference.com/*
+
