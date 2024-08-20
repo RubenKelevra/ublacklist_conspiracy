@@ -930,3 +930,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Primary Doctor Medical Journal (USA)
 *://*.pdmj.org/*
 
+# Prison Planet (USA)
+*://*.prisonplanet.com/*
+*://*.endgamethemovie.com/*
+
