@@ -398,3 +398,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Prophecy News Watch (USA)
 *://*.prophecynewswatch.com/*
 
+# Prophecy Today (USA)
+*://*.jimmydeyoungjr.org/*
+
