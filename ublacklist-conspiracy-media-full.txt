@@ -943,3 +943,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # RandPaul.News (USA)
 *://*.randpaul.news/*
 
+# Real Climate Science (USA)
+*://*.realclimatescience.com/*
+
