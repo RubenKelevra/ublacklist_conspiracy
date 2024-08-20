@@ -111,3 +111,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Covert Geopolitics (USA)
 *://*.geopolitics.co/*
 
+# Cureus Journal of Medical Science (USA)
+*://*.cureus.com/*
+
