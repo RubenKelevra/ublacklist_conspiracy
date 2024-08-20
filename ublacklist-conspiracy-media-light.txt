@@ -313,3 +313,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Medical Medium (USA)
 *://*.medicalmedium.com/*
 
+# Mercola (USA)
+*://*.mercola.com/*
+
