@@ -226,3 +226,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Got Questions (USA)
 *://*.gotquestions.org/*
 
+# GreenMedInfo (USA)
+*://*.greenmedinfo.com/*
+
