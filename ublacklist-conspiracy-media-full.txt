@@ -747,3 +747,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Media Fact Watch (USA)
 *://*.mediafactwatch.com/*
 
+# Media Roots (USA)
+*://*.mediaroots.org/*
+
