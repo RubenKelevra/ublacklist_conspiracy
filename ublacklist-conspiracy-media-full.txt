@@ -671,3 +671,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Jeda News (Italy)
 *://*.jedanews.com/*
 
+# Jehovah’s Witnesses (USA)
+*://*.jw.org/*
+
