@@ -282,3 +282,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # CNN So Fake News (USA)
 *://*.cnnsofake.news/*
 
+# Coast to Coast AM (USA)
+*://*.coasttocoastam.com/*
+
