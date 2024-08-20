@@ -900,3 +900,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Physicians for Informed Consent (USA)
 *://*.physiciansforinformedconsent.org/*
 
+# Planeta Prisão (Brazil)
+*://*.planetaprisao.com.br/*
+
