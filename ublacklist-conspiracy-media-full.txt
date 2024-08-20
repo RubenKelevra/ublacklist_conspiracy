@@ -726,3 +726,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # LiveStrong.com (USA)
 *://*.livestrong.com/*
 
+# Living Whole (Canada)
+*://*.livingwhole.org/*
+
