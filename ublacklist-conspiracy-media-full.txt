@@ -1078,3 +1078,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Greanville Post (USA)
 *://*.greanvillepost.com/*
 
+# The Health Ranger (USA)
+*://*.healthranger.com/*
+
