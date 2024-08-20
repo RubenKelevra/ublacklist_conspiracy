@@ -1287,3 +1287,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # WorldHealth.net (USA)
 *://*.worldhealth.net/*
 
+# World Lifestyle (USA)
+*://*.worldlifestyle.com/*
+
