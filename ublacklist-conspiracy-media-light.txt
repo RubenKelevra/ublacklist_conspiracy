@@ -376,3 +376,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Our Health Guides (Unknown)
 *://*.ourhealthguides.com/*
 
+# PETA (USA)
+*://*.peta.org/*
+
