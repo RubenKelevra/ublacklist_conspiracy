@@ -581,3 +581,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Health.News (USA)
 *://*.health.news/*
 
+# Health Nut News (USA)
+*://*.healthnutnews.com/*
+
