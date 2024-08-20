@@ -1139,3 +1139,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Waking Times (USA)
 *://*.wakingtimes.com/*
 
+# The Wellness Company (USA)
+*://*.twc.health/*
+
