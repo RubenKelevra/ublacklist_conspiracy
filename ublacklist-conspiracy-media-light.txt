@@ -153,3 +153,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Educate Yourself (USA)
 *://*.educate-yourself.org/*
 
+# Electroverse (Unknown)
+*://*.electroverse.net/*
+
