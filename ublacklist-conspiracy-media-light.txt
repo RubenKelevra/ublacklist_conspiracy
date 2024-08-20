@@ -340,3 +340,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Natural Society (USA)
 *://*.naturalsociety.com/*
 
+# Naturally Savvy (Canada)
+*://*.naturallysavvy.com/*
+
