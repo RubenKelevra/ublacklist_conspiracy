@@ -623,3 +623,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # iHealthtube (USA)
 *://*.ihealthtube.com/*
 
+# I Heart Intelligence (Bulgaria)
+*://*.iheartintelligence.com/*
+
