@@ -246,3 +246,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # ChristianAnswers.net (USA)
 *://*.christiananswers.net/*
 
+# Christian Apologetics & Research Ministry (USA)
+*://*.carm.org/*
+
