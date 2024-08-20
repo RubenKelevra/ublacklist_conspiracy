@@ -1303,3 +1303,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # YourTango (USA)
 *://*.yourtango.com/*
 
+# ZeroHedge (Bulgaria)
+*://*.zerohedge.com/*
+
