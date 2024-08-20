@@ -262,3 +262,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # ICAN (USA)
 *://*.icandecide.org/*
 
+# iHealthtube (USA)
+*://*.ihealthtube.com/*
+
