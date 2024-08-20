@@ -114,3 +114,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Cureus Journal of Medical Science (USA)
 *://*.cureus.com/*
 
+# Curious Mind Magazine (USA)
+*://*.curiousmindmagazine.com/*
+
