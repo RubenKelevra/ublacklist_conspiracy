@@ -122,3 +122,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Antioxidants.News (USA)
 *://*.antioxidants.news/*
 
+# Anya Vien (USA)
+*://*.anyavien.com/*
+
