@@ -225,3 +225,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Cancer.news (USA)
 *://*.cancer.news/*
 
+# Catholic Online (USA)
+*://*.catholic.org/*
+
