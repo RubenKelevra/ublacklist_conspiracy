@@ -505,3 +505,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Geoengineering.News (USA)
 *://*.geoengineering.news/*
 
+# GeoEngineering Watch (USA)
+*://*.geoengineeringwatch.org/*
+
