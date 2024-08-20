@@ -1,0 +1,5 @@
+---
+name: Conspiracy Media (light version)
+description: Hides (most) Conspiracy Media sites
+homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
+---
