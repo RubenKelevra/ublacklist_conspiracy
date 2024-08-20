@@ -771,3 +771,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Mercola (USA)
 *://*.mercola.com/*
 
+# MichaelSalla.com (USA)
+*://*.michaelsalla.com/*
+
