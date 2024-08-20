@@ -1121,3 +1121,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Stream (USA)
 *://*.stream.org/*
 
+# The Trumpet (USA)
+*://*.thetrumpet.com/*
+
