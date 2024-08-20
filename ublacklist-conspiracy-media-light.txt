@@ -108,3 +108,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Cosmic Intelligence Agency (Australia)
 *://*.cosmicintelligenceagency.com/*
 
+# Covert Geopolitics (USA)
+*://*.geopolitics.co/*
+
