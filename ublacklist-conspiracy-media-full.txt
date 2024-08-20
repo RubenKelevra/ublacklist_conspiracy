@@ -708,3 +708,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Liberty Planet (USA)
 *://*.libertyplanets.com/*
 
+# Libtards.News (USA)
+*://*.libtards.news/*
+
