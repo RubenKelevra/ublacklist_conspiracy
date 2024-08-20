@@ -417,3 +417,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 *://*.sciencevibe.com/*
 *://*.macantogeljuara.com/*
 
+# Skeptiko (USA)
+*://*.skeptiko.com/*
+
