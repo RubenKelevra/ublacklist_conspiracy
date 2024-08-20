@@ -958,3 +958,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Renegade Tribune (USA)
 *://*.renegadetribune.com/*
 
+# Rense (USA)
+*://*.rense.com/*
+
