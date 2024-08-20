@@ -70,3 +70,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Alternative Daily (USA)
 *://*.thealternativedaily.com/*
 
+# Alternative Media Television (USA)
+*://*.amtvmedia.com/*
+
