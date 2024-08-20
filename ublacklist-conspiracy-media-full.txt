@@ -861,3 +861,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Occupy Yourself (USA)
 *://*.occupyyourself.org/*
 
+# Odysee (USA)
+*://*.odysee.com/*
+
