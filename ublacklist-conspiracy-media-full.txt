@@ -1251,3 +1251,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Weston A. Price Foundation (USA)
 *://*.westonaprice.org/*
 
+# What Really Happened (USA)
+*://*.whatreallyhappened.com/*
+
