@@ -229,3 +229,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # GreenMedInfo (USA)
 *://*.greenmedinfo.com/*
 
+# Greenpeace (Netherlands)
+*://*.greenpeace.org/*
+
