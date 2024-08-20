@@ -490,3 +490,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Front Line Covid-19 Critical Care Alliance (USA)
 *://*.covid19criticalcare.com/*
 
+# Fully Human (Unknown)
+*://*.fully-human.org/*
+
