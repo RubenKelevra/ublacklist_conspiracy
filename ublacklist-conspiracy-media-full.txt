@@ -25,3 +25,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # A Call for an Uprising (USA)
 *://*.acallforanuprising.com/*
 
+# ACN Latitudes (USA)
+*://*.latitudes.org/*
+
