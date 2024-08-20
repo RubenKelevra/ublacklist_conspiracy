@@ -170,3 +170,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Biased.News (USA)
 *://*.biased.news/*
 
+# Big Government News (USA)
+*://*.biggovernment.news/*
+
