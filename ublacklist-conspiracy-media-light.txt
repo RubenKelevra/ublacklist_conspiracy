@@ -123,3 +123,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # DailyHealthPost (Canada)
 *://*.dailyhealthpost.com/*
 
+# Dark Journalist (USA)
+*://*.darkjournalist.com/*
+
