@@ -402,3 +402,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # DrugCartels.News (USA)
 *://*.drugcartels.news/*
 
+# Ecology News (USA)
+*://*.ecology.news/*
+
