@@ -984,3 +984,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 *://*.sciencevibe.com/*
 *://*.macantogeljuara.com/*
 
+# SGT Report (USA)
+*://*.sgtreport.com/*
+
