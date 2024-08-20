@@ -164,3 +164,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Behold Israel (Israel)
 *://*.beholdisrael.org/*
 
+# Best News Here (Macedonia)
+*://*.bestnewshere.com/*
+
