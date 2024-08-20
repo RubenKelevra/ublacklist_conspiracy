@@ -132,3 +132,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # David Wolfe (USA)
 *://*.davidwolfe.com/*
 
+# Dissident Voice (USA)
+*://*.dissidentvoice.org/*
+
