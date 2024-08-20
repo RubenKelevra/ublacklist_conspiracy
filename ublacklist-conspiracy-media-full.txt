@@ -1017,3 +1017,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # SupplementReference.com (USA)
 *://*.supplementreference.com/*
 
+# Survival.News (USA)
+*://*.survival.news/*
+
