@@ -999,3 +999,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Skeptiko (USA)
 *://*.skeptiko.com/*
 
+# Snopes.News (USA)
+*://*.snopes.news/*
+
