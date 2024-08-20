@@ -401,3 +401,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Prophecy Today (USA)
 *://*.jimmydeyoungjr.org/*
 
+# Real Jew News (USA)
+*://*.realjewnews.com/*
+
