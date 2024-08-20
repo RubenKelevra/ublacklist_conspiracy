@@ -967,3 +967,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Rumor Mill News (USA)
 *://*.rumormillnews.com/*
 
+# SaneVax (USA)
+*://*.sanevax.org/*
+
