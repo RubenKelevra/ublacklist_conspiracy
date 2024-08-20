@@ -303,3 +303,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Consumer Wellness Center (USA)
 *://*.consumerwellness.org/*
 
+# Corey’s Digs (USA)
+*://*.coreysdigs.com/*
+
