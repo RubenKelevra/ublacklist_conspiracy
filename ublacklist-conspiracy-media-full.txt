@@ -608,3 +608,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Higher Perspective (Unknown)
 *://*.higherperspectives.com/*
 
+# Homeopathy Journal (Germany)
+*://*.facultyofhomeopathy.org/*
+
