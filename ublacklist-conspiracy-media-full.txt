@@ -774,3 +774,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # MichaelSalla.com (USA)
 *://*.michaelsalla.com/*
 
+# MindBodyGreen (USA)
+*://*.mindbodygreen.com/*
+
