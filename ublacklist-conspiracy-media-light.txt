@@ -21,3 +21,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # ADDitude Magazine (USA)
 *://*.additudemag.com/*
 
+# Newsinstact.com (Romania)
+*://*.newsinstact.com/*
+
