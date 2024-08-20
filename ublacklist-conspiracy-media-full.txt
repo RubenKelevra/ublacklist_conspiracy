@@ -599,3 +599,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Henry Makow (Canada)
 *://*.savethemales.ca/*
 
+# Herb (Canada)
+*://*.herb.co/*
+
