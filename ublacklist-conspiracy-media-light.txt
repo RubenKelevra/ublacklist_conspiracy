@@ -322,3 +322,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Modern Alternative Mama (USA)
 *://*.modernalternativemama.com/*
 
+# National Vaccine Information Center (USA)
+*://*.nvic.org/*
+
