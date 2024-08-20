@@ -201,3 +201,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 *://*.brandnewtube.com/*
 *://*.onevsp.com/*
 
+# Breakthrough.News (USA)
+*://*.breakthrough.news/*
+
