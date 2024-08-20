@@ -1011,3 +1011,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Stillness in the Storm (USA)
 *://*.stillnessinthestorm.com/*
 
+# Stormfront (USA)
+*://*.stormfront.org/*
+
