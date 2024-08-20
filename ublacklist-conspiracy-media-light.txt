@@ -310,3 +310,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Medical Daily (USA)
 *://*.medicaldaily.com/*
 
+# Medical Medium (USA)
+*://*.medicalmedium.com/*
+
