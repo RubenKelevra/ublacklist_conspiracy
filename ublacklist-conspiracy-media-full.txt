@@ -918,3 +918,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Press for Truth (Canada)
 *://*.pressfortruth.ca/*
 
+# Prevent Genocide 2030 (USA)
+*://*.preventgenocide2030.org/*
+
