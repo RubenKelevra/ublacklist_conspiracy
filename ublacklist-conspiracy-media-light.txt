@@ -426,3 +426,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Sustainable Pulse (USA)
 *://*.sustainablepulse.com/*
 
+# The Annunaki (Unknown)
+*://*.annunaki.org/*
+
