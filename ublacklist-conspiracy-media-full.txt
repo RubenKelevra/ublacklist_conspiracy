@@ -1103,3 +1103,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Organic Prepper (USA)
 *://*.theorganicprepper.com/*
 
+# The Phaser (USA)
+*://*.thephaser.com/*
+
