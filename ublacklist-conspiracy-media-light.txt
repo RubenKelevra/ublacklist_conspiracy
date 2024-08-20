@@ -84,3 +84,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Blacklisted News (USA)
 *://*.blacklistednews.com/*
 
+# BrightSide (Cyprus)
+*://*.brightside.me/*
+
