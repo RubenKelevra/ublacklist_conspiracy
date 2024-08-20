@@ -891,3 +891,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # PaulCraigRoberts.org (USA)
 *://*.paulcraigroberts.org/*
 
+# PETA (USA)
+*://*.peta.org/*
+
