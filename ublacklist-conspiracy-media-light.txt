@@ -445,3 +445,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Final Call (USA)
 *://*.new.finalcall.com/*
 
+# The Greanville Post (USA)
+*://*.greanvillepost.com/*
+
