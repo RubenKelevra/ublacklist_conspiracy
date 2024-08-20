@@ -129,3 +129,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # David Icke (UK)
 *://*.davidicke.com/*
 
+# David Wolfe (USA)
+*://*.davidwolfe.com/*
+
