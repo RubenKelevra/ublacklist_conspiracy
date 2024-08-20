@@ -1029,3 +1029,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Talknetwork.com (USA)
 *://*.talknetwork.com/*
 
+# TechGiants.News (USA)
+*://*.techgiants.news/*
+
