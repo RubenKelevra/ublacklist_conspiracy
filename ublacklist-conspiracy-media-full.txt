@@ -888,3 +888,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Patriots For Truth (USA)
 *://*.patriots4truth.org/*
 
+# PaulCraigRoberts.org (USA)
+*://*.paulcraigroberts.org/*
+
