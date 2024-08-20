@@ -499,3 +499,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Gear.News (USA)
 *://*.gear.news/*
 
+# Gender.news (USA)
+*://*.gender.news/*
+
