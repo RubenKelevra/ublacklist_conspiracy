@@ -533,3 +533,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # X22 Report (USA)
 *://*.x22report.com/*
 
+# YourTango (USA)
+*://*.yourtango.com/*
+
