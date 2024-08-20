@@ -677,3 +677,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Jesus is Savior (USA)
 *://*.jesus-is-savior.com/*
 
+# JoeBiden.News (USA)
+*://*.joebiden.news/*
+
