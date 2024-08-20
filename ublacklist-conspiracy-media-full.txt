@@ -252,3 +252,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Christian Broadcasting Network (USA)
 *://*.cbn.com/*
 
+# Creation Ministries International (Australia)
+*://*.creation.com/*
+
