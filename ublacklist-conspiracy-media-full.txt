@@ -1187,3 +1187,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # UK Column (UK)
 *://*.ukcolumn.org/*
 
+# USA Hitman (Unknown)
+*://*.usahitman.com/*
+
