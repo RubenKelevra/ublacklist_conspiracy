@@ -593,3 +593,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Health Sciences Institute (USA)
 *://*.hsionline.com/*
 
+# Healthy Holistic Living (USA)
+*://*.healthy-holistic-living.com/*
+
