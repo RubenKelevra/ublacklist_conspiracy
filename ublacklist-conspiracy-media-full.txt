@@ -934,3 +934,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 *://*.prisonplanet.com/*
 *://*.endgamethemovie.com/*
 
+# Prophecy News Watch (USA)
+*://*.prophecynewswatch.com/*
+
