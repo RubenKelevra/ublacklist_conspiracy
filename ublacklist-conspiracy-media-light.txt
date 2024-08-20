@@ -355,3 +355,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # News Target (USA)
 *://*.newstarget.com/*
 
+# NutritionFacts.org (USA)
+*://*.nutritionfacts.org/*
+
