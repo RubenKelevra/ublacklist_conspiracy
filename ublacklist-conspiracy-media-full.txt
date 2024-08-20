@@ -1081,3 +1081,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Health Ranger (USA)
 *://*.healthranger.com/*
 
+# The Healthy American (USA)
+*://*.thehealthyamerican.org/*
+
