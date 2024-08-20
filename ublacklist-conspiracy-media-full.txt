@@ -1220,3 +1220,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Vaccine Safety Research Foundation (USA)
 *://*.vacsafety.org/*
 
+# VacTruth.com (USA)
+*://*.vactruth.com/*
+
