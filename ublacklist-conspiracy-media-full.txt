@@ -590,3 +590,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Health Ranger Report (USA)
 *://*.healthrangerreport.com/*
 
+# Health Sciences Institute (USA)
+*://*.hsionline.com/*
+
