@@ -192,3 +192,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Gaia (USA)
 *://*.gaia.com/*
 
+# GeoEngineering Watch (USA)
+*://*.geoengineeringwatch.org/*
+
