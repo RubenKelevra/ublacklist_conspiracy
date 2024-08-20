@@ -1157,3 +1157,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Thrive Movement (USA)
 *://*.thrivemovement.com/*
 
+# Totality of Evidence (Australia)
+*://*.totalityofevidence.com/*
+
