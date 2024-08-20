@@ -379,3 +379,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # PETA (USA)
 *://*.peta.org/*
 
+# Physicians for Informed Consent (USA)
+*://*.physiciansforinformedconsent.org/*
+
