@@ -738,3 +738,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Macroevolution.net (USA)
 *://*.macroevolution.net/*
 
+# MadMaxWorld.tv (USA)
+*://*.madmaxworld.tv/*
+
