@@ -384,3 +384,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Doctors for Covid Ethics (Switzerland)
 *://*.doctors4covidethics.org/*
 
+# The Dollar Vigilante (Unknown)
+*://*.dollarvigilante.com/*
+
