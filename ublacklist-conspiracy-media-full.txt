@@ -315,3 +315,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # CounterThink.com (USA)
 *://*.counterthink.com/*
 
+# Covert Geopolitics (USA)
+*://*.geopolitics.co/*
+
