@@ -99,3 +99,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Collective-Evolution (Canada)
 *://*.collective-evolution.com/*
 
+# Conscious Life News (USA)
+*://*.consciouslifenews.com/*
+
