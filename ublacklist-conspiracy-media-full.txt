@@ -1023,3 +1023,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Sustainable Pulse (USA)
 *://*.sustainablepulse.com/*
 
+# Swiss Policy Research (Unknown)
+*://*.swprs.org/*
+
