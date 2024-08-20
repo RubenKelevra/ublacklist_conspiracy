@@ -1297,3 +1297,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 *://*.worldviewweekend.com/*
 *://*.worldviewtube.com/*
 
+# X22 Report (USA)
+*://*.x22report.com/*
+
