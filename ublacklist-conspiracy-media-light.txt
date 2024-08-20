@@ -9,3 +9,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # 369News (Unknown)
 *://*.369news.net/*
 
+# ACN Latitudes (USA)
+*://*.latitudes.org/*
+
