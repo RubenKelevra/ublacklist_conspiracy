@@ -288,3 +288,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Collapse.News (USA)
 *://*.collapse.news/*
 
+# Collective-Evolution (Canada)
+*://*.collective-evolution.com/*
+
