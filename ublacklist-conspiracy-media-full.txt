@@ -825,3 +825,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Naturally Savvy (Canada)
 *://*.naturallysavvy.com/*
 
+# Need to Know (USA)
+*://*.needtoknow.news/*
+
