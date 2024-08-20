@@ -39,3 +39,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Altermed Zentrum (Unknown)
 *://*.altermedzentrum.com/*
 
+# Alternative Daily (USA)
+*://*.thealternativedaily.com/*
+
