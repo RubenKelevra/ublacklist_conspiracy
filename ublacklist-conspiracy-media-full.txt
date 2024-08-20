@@ -9,3 +9,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # 21st Century Wire (USA)
 *://*.21stcenturywire.com/*
 
+# 79Days.News (USA)
+*://*.79days.news/*
+
