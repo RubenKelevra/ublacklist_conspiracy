@@ -220,3 +220,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # GMWatch (UK)
 *://*.gmwatch.org/*
 
+# Goop (USA)
+*://*.goop.com/*
+
