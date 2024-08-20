@@ -241,3 +241,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Healing Oracle (Unknown)
 *://*.healingoracle.ch/*
 
+# Health Sciences Institute (USA)
+*://*.hsionline.com/*
+
