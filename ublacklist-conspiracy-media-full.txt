@@ -261,3 +261,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Christian Truth Center (Kenya)
 *://*.christiantruthcenter.com/*
 
+# Citizens for Legitimate Government (USA)
+*://*.legitgov.org/*
+
