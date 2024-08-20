@@ -1281,3 +1281,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # World Council for Health (UK)
 *://*.worldcouncilforhealth.org/*
 
+# World Doctors Alliance (Unknown)
+*://*.worlddoctorsalliance.com/*
+
