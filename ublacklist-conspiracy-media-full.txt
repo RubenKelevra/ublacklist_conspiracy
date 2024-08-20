@@ -300,3 +300,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Conspiracy Daily Update (Australia)
 *://*.conspiracydailyupdate.com/*
 
+# Consumer Wellness Center (USA)
+*://*.consumerwellness.org/*
+
