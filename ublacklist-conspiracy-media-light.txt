@@ -292,3 +292,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # LearnTheRisk.org (USA)
 *://*.learntherisk.org/*
 
+# Life Advancer (USA)
+*://*.lifeadvancer.com/*
+
