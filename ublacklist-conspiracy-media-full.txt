@@ -462,3 +462,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Food Matters (Australia)
 *://*.foodmatters.com/*
 
+# Food.News (USA)
+*://*.food.news/*
+
