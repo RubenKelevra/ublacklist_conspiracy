@@ -188,3 +188,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Bioterrorism.News (USA)
 *://*.bioterrorism.news/*
 
+# Blacklisted News (USA)
+*://*.blacklistednews.com/*
+
