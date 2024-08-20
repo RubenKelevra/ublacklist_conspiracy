@@ -644,3 +644,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Ingredients.News (USA)
 *://*.ingredients.news/*
 
+# Institute for Creation Research (USA)
+*://*.icr.org/*
+
