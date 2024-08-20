@@ -91,3 +91,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # American Intelligence Media (USA)
 *://*.aim4truth.org/*
 
+# American Media Group (Romania)
+*://*.amg-news.com/*
+
