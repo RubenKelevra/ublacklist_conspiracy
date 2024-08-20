@@ -328,3 +328,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Nation of Islam (USA)
 *://*.noi.org/*
 
+# Natural Blaze (Unknown)
+*://*.naturalblaze.com/*
+
