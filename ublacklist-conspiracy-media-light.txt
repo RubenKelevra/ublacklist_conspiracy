@@ -373,3 +373,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Organic Facts (India)
 *://*.organicfacts.net/*
 
+# Our Health Guides (Unknown)
+*://*.ourhealthguides.com/*
+
