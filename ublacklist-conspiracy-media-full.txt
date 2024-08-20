@@ -946,3 +946,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Real Climate Science (USA)
 *://*.realclimatescience.com/*
 
+# Real Jew News (USA)
+*://*.realjewnews.com/*
+
