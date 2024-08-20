@@ -43,3 +43,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # ADDitude Magazine (USA)
 *://*.additudemag.com/*
 
+# Age of Autism (USA)
+*://*.ageofautism.com/*
+
