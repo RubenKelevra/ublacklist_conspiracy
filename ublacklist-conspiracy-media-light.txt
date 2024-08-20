@@ -189,3 +189,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Free Thought Project (USA)
 *://*.thefreethoughtproject.com/*
 
+# Gaia (USA)
+*://*.gaia.com/*
+
