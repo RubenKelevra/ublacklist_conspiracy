@@ -723,3 +723,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Live Action (USA)
 *://*.liveaction.org/*
 
+# LiveStrong.com (USA)
+*://*.livestrong.com/*
+
