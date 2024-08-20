@@ -152,3 +152,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Awakening.News (USA)
 *://*.awakening.news/*
 
+# Awareness Act (USA)
+*://*.awarenessact.com/*
+
