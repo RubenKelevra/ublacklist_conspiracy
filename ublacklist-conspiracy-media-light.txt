@@ -325,3 +325,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # National Vaccine Information Center (USA)
 *://*.nvic.org/*
 
+# Nation of Islam (USA)
+*://*.noi.org/*
+
