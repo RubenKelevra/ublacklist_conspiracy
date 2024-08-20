@@ -1245,3 +1245,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # We Are Anonymous/AnonHQ (Unknown)
 *://*.anonhq.com/*
 
+# We Are Change (USA)
+*://*.wearechange.org/*
+
