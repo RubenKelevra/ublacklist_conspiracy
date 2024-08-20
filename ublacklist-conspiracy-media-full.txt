@@ -264,3 +264,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Citizens for Legitimate Government (USA)
 *://*.legitgov.org/*
 
+# Climate Change Dispatch (USA)
+*://*.climatechangedispatch.com/*
+
