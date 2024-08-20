@@ -45,3 +45,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # AltHealth Works (USA)
 *://*.althealthworks.com/*
 
+# Ancient Code (Unknown)
+*://*.ancient-code.com/*
+
