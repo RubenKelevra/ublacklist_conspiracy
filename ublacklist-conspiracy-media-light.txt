@@ -442,3 +442,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Event Chronicle (Unknown)
 *://*.theeventchronicle.com/*
 
+# The Final Call (USA)
+*://*.new.finalcall.com/*
+
