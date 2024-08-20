@@ -161,3 +161,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Banned.Video (USA)
 *://*.banned.video/*
 
+# Behold Israel (Israel)
+*://*.beholdisrael.org/*
+
