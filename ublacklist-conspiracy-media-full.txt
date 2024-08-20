@@ -617,3 +617,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Humans Are Free (USA)
 *://*.humansarefree.com/*
 
+# ICAN (USA)
+*://*.icandecide.org/*
+
