@@ -566,3 +566,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Health and Money News (USA)
 *://*.healthandmoneynews.wordpress.com/*
 
+# Healing Food Reference (USA)
+*://*.healingfoodreference.com/*
+
