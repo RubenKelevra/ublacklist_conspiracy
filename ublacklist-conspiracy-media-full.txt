@@ -182,3 +182,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Bioscience Resource Project (USA)
 *://*.bioscienceresource.org/*
 
+# Biotech Express Magazine (India)
+*://*.biotechexpressmag.com/*
+
