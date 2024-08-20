@@ -405,3 +405,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Ecology News (USA)
 *://*.ecology.news/*
 
+# Educate Yourself (USA)
+*://*.educate-yourself.org/*
+
