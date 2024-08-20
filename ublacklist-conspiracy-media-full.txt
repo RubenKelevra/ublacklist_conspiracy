@@ -330,3 +330,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # CrossExamined.org (USA)
 *://*.crossexamined.org/*
 
+# Culture Wars Magazine (USA)
+*://*.culturewars.com/*
+
