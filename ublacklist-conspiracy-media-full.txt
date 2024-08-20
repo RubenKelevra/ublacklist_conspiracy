@@ -270,3 +270,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Climate Depot (USA)
 *://*.climatedepot.com/*
 
+# Climate Etc (USA)
+*://*.judithcurry.com/*
+
