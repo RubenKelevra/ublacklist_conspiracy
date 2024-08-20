@@ -1084,3 +1084,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Healthy American (USA)
 *://*.thehealthyamerican.org/*
 
+# The Hearty Soul (Canada)
+*://*.theheartysoul.com/*
+
