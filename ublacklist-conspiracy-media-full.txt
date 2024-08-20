@@ -291,3 +291,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Collective-Evolution (Canada)
 *://*.collective-evolution.com/*
 
+# Committee For A Constructive Tomorrow (USA)
+*://*.cfact.org/*
+
