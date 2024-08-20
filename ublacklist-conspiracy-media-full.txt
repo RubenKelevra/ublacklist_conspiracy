@@ -840,3 +840,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # New Zealand Doctors Speaking Out With Science (New Zealand)
 *://*.nzdsos.com/*
 
+# NoMoreFakeNews.com (USA)
+*://*.nomorefakenews.com/*
+
