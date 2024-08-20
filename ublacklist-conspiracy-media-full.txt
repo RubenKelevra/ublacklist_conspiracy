@@ -372,3 +372,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Discoveries.News (USA)
 *://*.discoveries.news/*
 
+# Discovery Institute (USA)
+*://*.discovery.org/*
+
