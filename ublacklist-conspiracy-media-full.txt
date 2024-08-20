@@ -906,3 +906,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Pollution.News (USA)
 *://*.pollution.news/*
 
+# Positive Health Wellness (USA)
+*://*.positivehealthwellness.com/*
+
