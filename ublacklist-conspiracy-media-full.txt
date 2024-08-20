@@ -927,3 +927,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Principia Scientific International (UK)
 *://*.principia-scientific.org/*
 
+# Primary Doctor Medical Journal (USA)
+*://*.pdmj.org/*
+
