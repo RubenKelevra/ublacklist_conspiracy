@@ -530,3 +530,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # World Lifestyle (USA)
 *://*.worldlifestyle.com/*
 
+# X22 Report (USA)
+*://*.x22report.com/*
+
