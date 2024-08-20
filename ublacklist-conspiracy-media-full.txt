@@ -987,3 +987,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # SGT Report (USA)
 *://*.sgtreport.com/*
 
+# Sheep Killers (Unknown)
+*://*.sheepkillers.com/*
+
