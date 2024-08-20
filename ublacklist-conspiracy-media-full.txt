@@ -345,3 +345,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # CyberWar.News (USA)
 *://*.cyberwar.news/*
 
+# DailyClout (USA)
+*://*.dailyclout.io/*
+
