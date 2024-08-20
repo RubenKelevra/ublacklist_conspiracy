@@ -318,3 +318,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Covert Geopolitics (USA)
 *://*.geopolitics.co/*
 
+# Covid Call to Humanity (Philippines)
+*://*.covidcalltohumanity.org/*
+
