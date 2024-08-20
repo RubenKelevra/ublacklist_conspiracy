@@ -94,3 +94,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # American Media Group (Romania)
 *://*.amg-news.com/*
 
+# American Policy Center (USA)
+*://*.americanpolicy.org/*
+
