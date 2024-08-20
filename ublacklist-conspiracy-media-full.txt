@@ -548,3 +548,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Government Slaves (USA)
 *://*.govtslaves.com/*
 
+# Great Awakening (Unknown)
+*://*.greatawakening.win/*
+
