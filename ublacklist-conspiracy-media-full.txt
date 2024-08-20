@@ -88,3 +88,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # American Free Press (USA)
 *://*.americanfreepress.net/*
 
+# American Intelligence Media (USA)
+*://*.aim4truth.org/*
+
