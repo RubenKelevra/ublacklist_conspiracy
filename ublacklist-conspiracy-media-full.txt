@@ -1014,3 +1014,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Stormfront (USA)
 *://*.stormfront.org/*
 
+# SupplementReference.com (USA)
+*://*.supplementreference.com/*
+
