@@ -1263,3 +1263,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Wide Awake Media (USA)
 *://*.wide-awake-media.com/*
 
+# Wikispooks (Unknown)
+*://*.wikispooks.com/*
+
