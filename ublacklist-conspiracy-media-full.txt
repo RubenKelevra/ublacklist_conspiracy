@@ -1205,3 +1205,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Vaccines News (USA)
 *://*.vaccines.news/*
 
+# Vaccine Papers (Unknown)
+*://*.vaccinepapers.org/*
+
