@@ -518,3 +518,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # We Are Anonymous/AnonHQ (Unknown)
 *://*.anonhq.com/*
 
+# Weston A. Price Foundation (USA)
+*://*.westonaprice.org/*
+
