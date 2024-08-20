@@ -897,3 +897,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Philosophers Stone (UK)
 *://*.philosophers-stone.info/*
 
+# Physicians for Informed Consent (USA)
+*://*.physiciansforinformedconsent.org/*
+
