@@ -361,3 +361,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Occupy Yourself (USA)
 *://*.occupyyourself.org/*
 
+# OffGuardian (Unknown)
+*://*.off-guardian.org/*
+
