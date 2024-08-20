@@ -69,3 +69,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Assassination Science (USA)
 *://*.assassinationscience.com/*
 
+# Autism Speaks (USA)
+*://*.autismspeaks.org/*
+
