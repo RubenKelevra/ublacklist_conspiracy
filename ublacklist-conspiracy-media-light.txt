@@ -410,3 +410,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # SaneVax (USA)
 *://*.sanevax.org/*
 
+# Sante Plus Magazine (Morocco)
+*://*.santeplusmag.com/*
+
