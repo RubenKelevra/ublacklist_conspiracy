@@ -834,3 +834,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # NewsInsideOut.com (USA)
 *://*.newsinsideout.com/*
 
+# News Target (USA)
+*://*.newstarget.com/*
+
