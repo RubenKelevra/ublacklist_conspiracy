@@ -232,3 +232,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Greenpeace (Netherlands)
 *://*.greenpeace.org/*
 
+# Gundry MD (USA)
+*://*.gundrymd.com/*
+
