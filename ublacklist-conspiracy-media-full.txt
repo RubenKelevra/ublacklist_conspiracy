@@ -632,3 +632,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Independent Science News (USA)
 *://*.independentsciencenews.org/*
 
+# Infinite Unknown (Unknown)
+*://*.infiniteunknown.net/*
+
