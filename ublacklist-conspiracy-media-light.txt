@@ -180,3 +180,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Food Babe (USA)
 *://*.foodbabe.com/*
 
+# Food Matters (Australia)
+*://*.foodmatters.com/*
+
