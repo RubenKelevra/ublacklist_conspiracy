@@ -369,3 +369,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # DiedSuddenly.info (USA)
 *://*.diedsuddenly.info/*
 
+# Discoveries.News (USA)
+*://*.discoveries.news/*
+
