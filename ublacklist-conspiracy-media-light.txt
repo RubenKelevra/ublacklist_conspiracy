@@ -454,3 +454,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Highwire (USA)
 *://*.thehighwire.com/*
 
+# The Mind Unleashed (USA)
+*://*.themindunleashed.com/*
+
