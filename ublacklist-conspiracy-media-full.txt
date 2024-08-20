@@ -1151,3 +1151,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Thought Crime Radio (USA)
 *://*.thoughtcrimeradio.net/*
 
+# Thrive Global (USA)
+*://*.thriveglobal.com/*
+
