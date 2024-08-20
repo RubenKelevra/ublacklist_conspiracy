@@ -1072,3 +1072,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # The Final Call (USA)
 *://*.new.finalcall.com/*
 
+# The Fullerton Informer (USA)
+*://*.thefullertoninformer.com/*
+
