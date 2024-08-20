@@ -1248,3 +1248,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # We Are Change (USA)
 *://*.wearechange.org/*
 
+# Weston A. Price Foundation (USA)
+*://*.westonaprice.org/*
+
