@@ -693,3 +693,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 *://*.larouchepac.com/*
 *://*.prometheanpac.com/*
 
+# LearnTheRisk.org (USA)
+*://*.learntherisk.org/*
+
