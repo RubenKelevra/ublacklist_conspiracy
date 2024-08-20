@@ -90,3 +90,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Climate Change Dispatch (USA)
 *://*.climatechangedispatch.com/*
 
+# Climate Etc (USA)
+*://*.judithcurry.com/*
+
