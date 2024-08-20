@@ -289,3 +289,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Jehovah’s Witnesses (USA)
 *://*.jw.org/*
 
+# LearnTheRisk.org (USA)
+*://*.learntherisk.org/*
+
