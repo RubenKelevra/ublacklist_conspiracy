@@ -508,3 +508,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # VacTruth.com (USA)
 *://*.vactruth.com/*
 
+# Veterans Today (USA)
+*://*.veteranstoday.com/*
+*://*.vtforeignpolicy.com/*
+
