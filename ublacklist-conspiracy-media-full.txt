@@ -6,3 +6,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # 2020ElectionCenter.com (USA)
 *://*.freeworldnews.tv/*
 
+# 21st Century Wire (USA)
+*://*.21stcenturywire.com/*
+
