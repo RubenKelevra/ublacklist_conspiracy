@@ -831,3 +831,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Neuronation (Germany)
 *://*.neuronation.com/*
 
+# NewsInsideOut.com (USA)
+*://*.newsinsideout.com/*
+
