@@ -955,3 +955,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # RedPill Project (USA)
 *://*.redpillpodcasts.com/*
 
+# Renegade Tribune (USA)
+*://*.renegadetribune.com/*
+
