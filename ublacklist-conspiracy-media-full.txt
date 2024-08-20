@@ -524,3 +524,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 *://*.globalhealingcenter.com/*
 *://*.globalhealing.com/*
 
+# Global Research (Canada)
+*://*.globalresearch.ca/*
+
