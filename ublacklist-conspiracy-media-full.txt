@@ -453,3 +453,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Flat Earth Society (Unknown)
 *://*.tfes.org/*
 
+# Fleming-Method (USA)
+*://*.flemingmethod.com/*
+
