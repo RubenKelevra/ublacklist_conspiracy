@@ -686,3 +686,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Just One Focus (Australia)
 *://*.justonefocus.org/*
 
+# Kla.TV (Switzerland)
+*://*.kla.tv/*
+
