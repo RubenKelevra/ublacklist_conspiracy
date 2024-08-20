@@ -993,3 +993,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Shoebat (USA)
 *://*.shoebat.com/*
 
+# Signs of the Times (USA)
+*://*.sott.net/*
+
