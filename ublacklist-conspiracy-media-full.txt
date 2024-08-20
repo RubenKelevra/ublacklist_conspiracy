@@ -786,3 +786,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # National File (USA)
 *://*.nationalfile.com/*
 
+# NationalSecurity.News (USA)
+*://*.nationalsecurity.news/*
+
