@@ -214,3 +214,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Global Skywatch (USA)
 *://*.globalskywatch.com/*
 
+# GMO Watch Bias (USA)
+*://*.gmowatch.com/*
+
