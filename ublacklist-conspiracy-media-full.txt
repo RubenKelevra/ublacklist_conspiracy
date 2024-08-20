@@ -390,3 +390,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Dr. Axe (USA)
 *://*.draxe.com/*
 
+# Dr. Morse TV (USA)
+*://*.drmorse.tv/*
+
