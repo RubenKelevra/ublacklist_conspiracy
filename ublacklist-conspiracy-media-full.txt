@@ -864,3 +864,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Odysee (USA)
 *://*.odysee.com/*
 
+# OffGuardian (Unknown)
+*://*.off-guardian.org/*
+
