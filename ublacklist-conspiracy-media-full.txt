@@ -696,3 +696,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # LearnTheRisk.org (USA)
 *://*.learntherisk.org/*
 
+# LeftCult (USA)
+*://*.leftcult.com/*
+
