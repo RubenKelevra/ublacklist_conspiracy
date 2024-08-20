@@ -231,3 +231,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # CDC.News (USA)
 *://*.cdc.news/*
 
+# Censorship.News (USA)
+*://*.censorship.news/*
+
