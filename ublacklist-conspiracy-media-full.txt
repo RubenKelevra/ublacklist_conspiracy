@@ -213,3 +213,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Bugout.news (USA)
 *://*.bugout.news/*
 
+# CaliforniaCollapse.News (USA)
+*://*.californiacollapse.news/*
+
