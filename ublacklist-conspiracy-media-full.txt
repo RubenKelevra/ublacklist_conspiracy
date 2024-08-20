@@ -976,3 +976,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # ScienceClowns (USA)
 *://*.scienceclowns.com/*
 
+# Science.News (USA)
+*://*.science.news/*
+*://*.CensoredScience.com/*
+
