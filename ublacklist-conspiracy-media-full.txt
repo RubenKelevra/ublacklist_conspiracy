@@ -903,3 +903,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Planeta Prisão (Brazil)
 *://*.planetaprisao.com.br/*
 
+# Pollution.News (USA)
+*://*.pollution.news/*
+
