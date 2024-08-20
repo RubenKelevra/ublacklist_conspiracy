@@ -587,3 +587,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # HealthRangerInventions.com (USA)
 *://*.healthrangerinventions.com/*
 
+# Health Ranger Report (USA)
+*://*.healthrangerreport.com/*
+
