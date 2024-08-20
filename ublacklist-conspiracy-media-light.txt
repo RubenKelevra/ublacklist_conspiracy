@@ -177,3 +177,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Fleming-Method (USA)
 *://*.flemingmethod.com/*
 
+# Food Babe (USA)
+*://*.foodbabe.com/*
+
