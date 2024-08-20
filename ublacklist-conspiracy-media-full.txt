@@ -1233,3 +1233,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Vigilant Citizen (USA)
 *://*.vigilantcitizen.com/*
 
+# Vigilante.tv (Unknown)
+*://*.vigilante.tv/*
+
