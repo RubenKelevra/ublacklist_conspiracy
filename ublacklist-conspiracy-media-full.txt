@@ -542,3 +542,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Goop (USA)
 *://*.goop.com/*
 
+# Got Questions (USA)
+*://*.gotquestions.org/*
+
