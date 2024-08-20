@@ -1278,3 +1278,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # World Affairs Brief (USA)
 *://*.worldaffairsbrief.com/*
 
+# World Council for Health (UK)
+*://*.worldcouncilforhealth.org/*
+
