@@ -1196,3 +1196,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # VaccineDamage.News (USA)
 *://*.vaccinedamage.news/*
 
+# Vaccine Impact (USA)
+*://*.vaccineimpact.com/*
+
