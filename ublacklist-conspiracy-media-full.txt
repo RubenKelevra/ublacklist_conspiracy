@@ -468,3 +468,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Forever Conscious (USA)
 *://*.foreverconscious.com/*
 
+# Free Thought Project (USA)
+*://*.thefreethoughtproject.com/*
+
