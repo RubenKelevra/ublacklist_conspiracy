@@ -420,3 +420,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Escape All These Things (USA)
 *://*.escapeallthesethings.com/*
 
+# Eugenics.News (USA)
+*://*.eugenics.news/*
+
