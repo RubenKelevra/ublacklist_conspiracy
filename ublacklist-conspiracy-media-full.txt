@@ -514,3 +514,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Get Holistic Health (Unknown)
 *://*.getholistichealth.com/*
 
+# Giza Death Star (USA)
+*://*.gizadeathstar.com/*
+
