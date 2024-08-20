@@ -18,3 +18,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # 911Truth.org (USA)
 *://*.911truth.org/*
 
+# Above Top Secret (USA)
+*://*.abovetopsecret.com/*
+*://*.youtube.com/@thenlbs*
+
