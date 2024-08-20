@@ -285,3 +285,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Coast to Coast AM (USA)
 *://*.coasttocoastam.com/*
 
+# Collapse.News (USA)
+*://*.collapse.news/*
+
