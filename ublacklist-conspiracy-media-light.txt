@@ -198,3 +198,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Geopolitical Economy Report (USA)
 *://*.geopoliticaleconomy.com/*
 
+# Get Holistic Health (Unknown)
+*://*.getholistichealth.com/*
+
