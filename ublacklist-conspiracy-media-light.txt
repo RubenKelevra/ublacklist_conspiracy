@@ -105,3 +105,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Corruptico (Unknown)
 *://*.corruptico.com/*
 
+# Cosmic Intelligence Agency (Australia)
+*://*.cosmicintelligenceagency.com/*
+
