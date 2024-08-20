@@ -64,3 +64,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # altCensored (USA)
 *://*.altcensored.com/*
 
+# Altermed Zentrum (Unknown)
+*://*.altermedzentrum.com/*
+
