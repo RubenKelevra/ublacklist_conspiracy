@@ -961,3 +961,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Rense (USA)
 *://*.rense.com/*
 
+# Return to Now (USA)
+*://*.returntonow.net/*
+
