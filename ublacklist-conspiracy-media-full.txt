@@ -894,3 +894,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # PETA (USA)
 *://*.peta.org/*
 
+# Philosophers Stone (UK)
+*://*.philosophers-stone.info/*
+
