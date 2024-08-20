@@ -858,3 +858,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # NWO Report (USA)
 *://*.nworeport.me/*
 
+# Occupy Yourself (USA)
+*://*.occupyyourself.org/*
+
