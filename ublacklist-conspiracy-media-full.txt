@@ -471,3 +471,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Free Thought Project (USA)
 *://*.thefreethoughtproject.com/*
 
+# Freedom Advocates: Agenda 21 (USA)
+*://*.freedomadvocates.org/*
+
