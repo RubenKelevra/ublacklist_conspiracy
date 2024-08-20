@@ -301,3 +301,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # LittleThings (USA)
 *://*.littlethings.com/*
 
+# LiveStrong.com (USA)
+*://*.livestrong.com/*
+
