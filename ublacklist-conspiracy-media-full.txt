@@ -128,3 +128,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Apost.com (Germany)
 *://*.apost.com/*
 
+# Architects & Engineers for 9/11 Truth (USA)
+*://*.ae911truth.org/*
+
