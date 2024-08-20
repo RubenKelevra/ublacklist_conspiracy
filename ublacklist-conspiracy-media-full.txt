@@ -1242,3 +1242,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Watts Up with That (USA)
 *://*.wattsupwiththat.com/*
 
+# We Are Anonymous/AnonHQ (Unknown)
+*://*.anonhq.com/*
+
