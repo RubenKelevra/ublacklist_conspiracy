@@ -342,3 +342,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Curious Mind Magazine (USA)
 *://*.curiousmindmagazine.com/*
 
+# CyberWar.News (USA)
+*://*.cyberwar.news/*
+
