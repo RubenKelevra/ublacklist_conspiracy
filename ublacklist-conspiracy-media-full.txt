@@ -753,3 +753,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Medical Censorship News (USA)
 *://*.medicalcensorship.com/*
 
+# Medical Daily (USA)
+*://*.medicaldaily.com/*
+
