@@ -665,3 +665,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Irish Sentinel (Ireland)
 *://*.theirishsentinel.com/*
 
+# Israel365 News (Israel)
+*://*.israel365news.com/*
+
