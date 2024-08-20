@@ -85,3 +85,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # Aluminum.News (USA)
 *://*.aluminum.news/*
 
+# American Free Press (USA)
+*://*.americanfreepress.net/*
+
