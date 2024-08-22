@@ -4,7 +4,7 @@ description: Hides (most) Conspiracy Media sites
 homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 ---
 # 2020ElectionCenter.com (USA)
-*://*.freeworldnews.tv/*
+*://*.2020electioncenter.com/*
 
 # 21st Century Wire (USA)
 *://*.21stcenturywire.com/*
