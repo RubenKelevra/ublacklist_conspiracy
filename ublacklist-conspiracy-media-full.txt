@@ -1305,3 +1305,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Occidental Dissent (USA)
 *://*.occidentaldissent.com/*
+
+# Peak Prosperity (USA)
+*://*.peakprosperity.com/*
