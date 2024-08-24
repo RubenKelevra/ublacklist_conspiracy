@@ -1303,3 +1303,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # ZeroHedge (Bulgaria)
 *://*.zerohedge.com/*
 
+# Occidental Dissent (USA)
+*://*.occidentaldissent.com/*
