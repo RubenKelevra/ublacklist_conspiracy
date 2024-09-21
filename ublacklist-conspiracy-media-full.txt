@@ -1311,3 +1311,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Vital Force (UK)
 *://*.vitalforce.me/*
+
+# Compact Magazine (Germany)
+*://*.compact-online.de/*
