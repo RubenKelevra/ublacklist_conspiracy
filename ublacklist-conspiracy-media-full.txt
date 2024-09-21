@@ -1308,3 +1308,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Peak Prosperity (USA)
 *://*.peakprosperity.com/*
+
+# Vital Force (UK)
+*://*.vitalforce.me/*
