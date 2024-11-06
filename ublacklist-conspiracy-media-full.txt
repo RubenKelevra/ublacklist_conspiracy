@@ -1317,3 +1317,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Stop World Control (USA)
 *://*.stopworldcontrol.com/*
+
+# Reasons to Believe - RTB (USA)
+*://*.reasons.org/*
