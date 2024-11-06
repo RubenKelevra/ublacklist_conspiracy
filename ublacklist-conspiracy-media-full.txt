@@ -1314,3 +1314,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Compact Magazine (Germany)
 *://*.compact-online.de/*
+
+# Stop World Control (USA)
+*://*.stopworldcontrol.com/*
