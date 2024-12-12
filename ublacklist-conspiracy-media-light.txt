@@ -536,3 +536,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 # YourTango (USA)
 *://*.yourtango.com/*
 
+# Uncut-News (Switzerland)
+*://*.uncutnews.ch/*
