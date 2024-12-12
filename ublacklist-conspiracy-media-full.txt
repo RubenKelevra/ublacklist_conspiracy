@@ -1326,3 +1326,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Uncut-News (Switzerland)
 *://*.uncutnews.ch/*
+
+# SarahWestall.com (USA)
+*://*.sarahwestall.com/*
