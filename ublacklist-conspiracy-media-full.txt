@@ -1329,3 +1329,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # SarahWestall.com (USA)
 *://*.sarahwestall.com/*
+
+# Strange Sounds (USA)
+*://*.strangesounds.org/*
