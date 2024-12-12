@@ -1323,3 +1323,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # JouWatch (Germany)
 *://*.journalistenwatch.com/*
+
+# Uncut-News (Switzerland)
+*://*.uncutnews.ch/*
