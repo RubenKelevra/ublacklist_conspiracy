@@ -1332,3 +1332,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Strange Sounds (USA)
 *://*.strangesounds.org/*
+
+# Steve Quayle - stevequayle.com (USA)
+*://*.stevequayle.com/*
