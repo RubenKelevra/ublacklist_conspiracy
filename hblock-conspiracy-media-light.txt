@@ -537,3 +537,6 @@ uncutnews.ch
 # Globe Terminator (Unknown)
 globeterminator.com
 
+# Psychreg (UK)
+psychreg.org
+

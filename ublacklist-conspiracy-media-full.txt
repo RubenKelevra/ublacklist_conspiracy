@@ -1335,3 +1335,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Steve Quayle - stevequayle.com (USA)
 *://*.stevequayle.com/*
+
+# Psychreg (UK)
+*://*.psychreg.org/*

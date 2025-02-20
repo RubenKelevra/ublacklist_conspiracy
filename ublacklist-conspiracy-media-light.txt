@@ -541,3 +541,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Globe Terminator (Unknown)
 *://*.globeterminator.com/*
+
+# Psychreg (UK)
+*://*.psychreg.org/*
