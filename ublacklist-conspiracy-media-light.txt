@@ -538,3 +538,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Uncut-News (Switzerland)
 *://*.uncutnews.ch/*
+
+# Globe Terminator (Unknown)
+*://*.globeterminator.com/*

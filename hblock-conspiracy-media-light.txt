@@ -534,3 +534,6 @@ yourtango.com
 # Uncut-News (Switzerland)
 uncutnews.ch
 
+# Globe Terminator (Unknown)
+globeterminator.com
+
