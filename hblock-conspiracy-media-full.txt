@@ -1333,3 +1333,6 @@ stevequayle.com
 # Psychreg (UK)
 psychreg.org
 
+# Independent Medical Alliance - IMA (USA)
+imahealth.org
+

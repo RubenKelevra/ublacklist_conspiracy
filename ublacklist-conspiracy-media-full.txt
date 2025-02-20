@@ -1338,3 +1338,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Psychreg (UK)
 *://*.psychreg.org/*
+
+# Independent Medical Alliance - IMA (USA)
+*://*.imahealth.org/*
