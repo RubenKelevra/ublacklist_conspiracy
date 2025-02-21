@@ -1345,3 +1345,6 @@ gmo.news
 # GreatReject Bias (Netherlands)
 greatreject.org
 
+# ThoughtPolice.News (USA)
+thoughtpolice.news
+

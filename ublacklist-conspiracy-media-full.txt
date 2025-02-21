@@ -1350,3 +1350,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # GreatReject Bias (Netherlands)
 *://*.greatreject.org/*
+
+# ThoughtPolice.News (USA)
+*://*.thoughtpolice.news/*
