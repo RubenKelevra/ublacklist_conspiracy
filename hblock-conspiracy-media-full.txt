@@ -1336,3 +1336,6 @@ psychreg.org
 # Independent Medical Alliance - IMA (USA)
 imahealth.org
 
+# Truth Theory (UK)
+truththeory.com
+

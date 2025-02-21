@@ -544,3 +544,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Psychreg (UK)
 *://*.psychreg.org/*
+
+# Truth Theory (UK)
+*://*.truththeory.com/*

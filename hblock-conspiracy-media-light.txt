@@ -540,3 +540,6 @@ globeterminator.com
 # Psychreg (UK)
 psychreg.org
 
+# Truth Theory (UK)
+truththeory.com
+
