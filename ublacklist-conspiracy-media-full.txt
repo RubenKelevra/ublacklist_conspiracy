@@ -1344,3 +1344,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # Truth Theory (UK)
 *://*.truththeory.com/*
+
+# GMO.News (USA)
+*://*.gmo.news/*
