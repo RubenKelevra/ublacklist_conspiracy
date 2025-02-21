@@ -1348,3 +1348,6 @@ greatreject.org
 # ThoughtPolice.News (USA)
 thoughtpolice.news
 
+# Science, Public Health Policy & the Law (USA)
+publichealthpolicyjournal.com
+
