@@ -1347,3 +1347,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
 
 # GMO.News (USA)
 *://*.gmo.news/*
+
+# GreatReject Bias (Netherlands)
+*://*.greatreject.org/*

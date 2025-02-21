@@ -1342,3 +1342,6 @@ truththeory.com
 # GMO.News (USA)
 gmo.news
 
+# GreatReject Bias (Netherlands)
+greatreject.org
+
